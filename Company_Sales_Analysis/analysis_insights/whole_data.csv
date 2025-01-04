@@ -1,0 +1,1488 @@
+Order ID,Order Date,CustomerName,State,City,Amount,Profit (per Q.),Quantity,Final Amount Without Profit or Loss,Final Amount,Category,Sub-Category,PaymentMode,Count
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,5729,64,14,80206,81102,Furniture,Chairs,EMI,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,671,114,9,6039,7065,Electronics,Phones,Credit Card,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,443,11,1,443,454,Clothing,Saree,COD,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,57,7,2,114,128,Clothing,Shirt,UPI,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,227,48,5,1135,1375,Clothing,Stole,COD,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,213,4,14,2982,3038,Clothing,Shirt,COD,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,94,27,2,188,242,Clothing,T-shirt,COD,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,1250,-12,2,2500,2476,Electronics,Printers,EMI,1
+B-26055,10-03-2018,Harivansh,Uttar Pradesh,Mathura,1218,-420,8,9744,6384,Furniture,Bookcases,COD,1
+B-25993,03-02-2018,Madhav,Delhi,Delhi,610,208,3,1830,2454,Electronics,Printers,COD,1
+B-25993,03-02-2018,Madhav,Delhi,Delhi,414,199,3,1242,1839,Electronics,Phones,COD,1
+B-25993,03-02-2018,Madhav,Delhi,Delhi,44,8,2,88,104,Clothing,Stole,COD,1
+B-25993,03-02-2018,Madhav,Delhi,Delhi,173,86,1,173,259,Electronics,Printers,Debit Card,1
+B-25993,03-02-2018,Madhav,Delhi,Delhi,221,26,7,1547,1729,Furniture,Furnishings,COD,1
+B-25993,03-02-2018,Madhav,Delhi,Delhi,201,32,4,804,932,Furniture,Furnishings,UPI,1
+B-25993,03-02-2018,Madhav,Delhi,Delhi,4363,305,5,21815,23340,Furniture,Tables,EMI,1
+B-25973,24-01-2018,Madan Mohan,Uttar Pradesh,Mathura,398,111,8,3184,4072,Clothing,Hankerchief,COD,1
+B-25973,24-01-2018,Madan Mohan,Uttar Pradesh,Mathura,79,39,2,158,236,Clothing,Shirt,Debit Card,1
+B-25973,24-01-2018,Madan Mohan,Uttar Pradesh,Mathura,39,14,5,195,265,Clothing,Leggings,COD,1
+B-25973,24-01-2018,Madan Mohan,Uttar Pradesh,Mathura,571,108,12,6852,8148,Clothing,Stole,Debit Card,1
+B-25973,24-01-2018,Madan Mohan,Uttar Pradesh,Mathura,4141,1698,13,53833,75907,Electronics,Printers,COD,1
+B-25923,27-12-2018,Gopal,Maharashtra,Mumbai,3873,-891,6,23238,17892,Electronics,Phones,Credit Card,1
+B-25923,27-12-2018,Gopal,Maharashtra,Mumbai,253,-11,1,253,242,Clothing,Trousers,Debit Card,1
+B-25923,27-12-2018,Gopal,Maharashtra,Mumbai,226,58,3,678,852,Electronics,Accessories,COD,1
+B-25923,27-12-2018,Gopal,Maharashtra,Mumbai,484,28,3,1452,1536,Electronics,Printers,Debit Card,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,17,-13,4,68,16,Clothing,Skirt,Debit Card,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,46,14,5,230,300,Clothing,Skirt,Debit Card,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,211,19,8,1688,1840,Clothing,Stole,COD,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,165,30,3,495,585,Clothing,Stole,COD,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,34,-11,5,170,115,Clothing,T-shirt,COD,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,98,9,2,196,214,Furniture,Furnishings,COD,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,106,15,7,742,847,Clothing,Hankerchief,Credit Card,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,53,15,2,106,136,Clothing,Stole,COD,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,14,5,1,14,19,Clothing,Hankerchief,COD,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,17,7,3,51,72,Clothing,Hankerchief,UPI,1
+B-25757,21-08-2018,Vishakha,Madhya Pradesh,Indore,3151,-35,7,22057,21812,Clothing,Trousers,EMI,1
+B-25967,21-01-2018,Sudevi,Uttar Pradesh,Prayagraj,17,2,2,34,38,Clothing,Skirt,Debit Card,1
+B-25967,21-01-2018,Sudevi,Uttar Pradesh,Prayagraj,119,-24,4,476,380,Furniture,Furnishings,COD,1
+B-25967,21-01-2018,Sudevi,Uttar Pradesh,Prayagraj,229,59,9,2061,2592,Clothing,Saree,Debit Card,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,2927,146,8,23416,24584,Furniture,Bookcases,EMI,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,39,2,2,78,82,Clothing,Saree,Debit Card,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,54,14,3,162,204,Clothing,T-shirt,UPI,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,294,62,9,2646,3204,Clothing,T-shirt,EMI,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,110,20,5,550,650,Clothing,Stole,Debit Card,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,200,13,5,1000,1065,Electronics,Phones,COD,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,45,8,4,180,212,Clothing,Skirt,EMI,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,954,95,3,2862,3147,Electronics,Printers,UPI,1
+B-25955,16-01-2018,Shiva,Maharashtra,Pune,1716,309,7,12012,14175,Electronics,Accessories,COD,1
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,2847,712,8,22776,28472,Electronics,Printers,Credit Card,1
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,852,51,5,4260,4515,Furniture,Bookcases,Credit Card,1
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,148,25,3,444,519,Clothing,Saree,Debit Card,1
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,81,-41,5,405,200,Clothing,Leggings,EMI,1
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,49,5,4,196,216,Clothing,Hankerchief,COD,1
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,33,-1,1,33,32,Clothing,Saree,Credit Card,1
+B-26093,27-03-2018,Sarita,Maharashtra,Pune,492,187,2,984,1358,Electronics,Accessories,UPI,1
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,448,148,2,896,1192,Electronics,Printers,COD,1
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,61,-50,4,244,44,Clothing,Hankerchief,COD,1
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,47,-3,2,94,88,Clothing,Stole,COD,1
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,379,63,2,758,884,Clothing,Saree,COD,1
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,38,-13,3,114,75,Clothing,Stole,Credit Card,1
+B-25798,01-10-2018,Shishu,Andhra Pradesh,Hyderabad,2830,-1981,13,36790,11037,Furniture,Bookcases,EMI,1
+B-25602,01-04-2018,Vrinda,Maharashtra,Pune,2617,1151,4,10468,15072,Electronics,Phones,Credit Card,1
+B-25602,01-04-2018,Vrinda,Maharashtra,Pune,561,212,3,1683,2319,Clothing,Saree,COD,1
+B-25602,01-04-2018,Vrinda,Maharashtra,Pune,424,-272,5,2120,760,Electronics,Phones,COD,1
+B-25602,01-04-2018,Vrinda,Maharashtra,Pune,168,-111,2,336,114,Electronics,Phones,EMI,1
+B-25602,01-04-2018,Vrinda,Maharashtra,Pune,119,-5,8,952,912,Clothing,Saree,Credit Card,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,29,11,4,116,160,Clothing,Skirt,COD,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,245,30,2,490,550,Clothing,Saree,COD,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,223,27,2,446,500,Furniture,Bookcases,COD,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,219,0,1,219,219,Clothing,Saree,COD,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,294,109,7,2058,2821,Electronics,Accessories,EMI,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,82,13,2,164,190,Clothing,Shirt,COD,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,27,5,2,54,64,Clothing,Skirt,COD,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,22,8,3,66,90,Clothing,Hankerchief,COD,1
+B-25858,13-11-2018,Uudhav,Maharashtra,Mumbai,2457,665,11,27027,34342,Electronics,Electronic Games,EMI,1
+B-25969,21-01-2018,Shreyshi,Gujarat,Surat,171,17,6,1026,1128,Clothing,T-shirt,UPI,1
+B-25969,21-01-2018,Shreyshi,Gujarat,Surat,720,43,2,1440,1526,Electronics,Printers,UPI,1
+B-25969,21-01-2018,Shreyshi,Gujarat,Surat,2452,191,7,17164,18501,Furniture,Bookcases,UPI,1
+B-26099,30-03-2018,Bhishm,Maharashtra,Mumbai,207,37,4,828,976,Clothing,Hankerchief,COD,1
+B-26099,30-03-2018,Bhishm,Maharashtra,Mumbai,835,267,5,4175,5510,Electronics,Phones,Debit Card,1
+B-26099,30-03-2018,Bhishm,Maharashtra,Mumbai,2366,552,5,11830,14590,Clothing,Trousers,UPI,1
+B-26099,30-03-2018,Bhishm,Maharashtra,Mumbai,9,3,1,9,12,Clothing,Skirt,COD,1
+B-25997,04-02-2018,Yogesh,Maharashtra,Pune,231,99,2,462,660,Electronics,Electronic Games,Credit Card,1
+B-25997,04-02-2018,Yogesh,Maharashtra,Pune,48,15,1,48,63,Clothing,Hankerchief,COD,1
+B-25997,04-02-2018,Yogesh,Maharashtra,Pune,16,6,3,48,66,Clothing,Hankerchief,COD,1
+B-25997,04-02-2018,Yogesh,Maharashtra,Pune,2292,127,7,16044,16933,Furniture,Bookcases,COD,1
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,2244,247,4,8976,9964,Clothing,Trousers,Credit Card,1
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,37,3,3,111,120,Clothing,Hankerchief,COD,1
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,36,7,3,108,129,Clothing,Leggings,Debit Card,1
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,26,9,2,52,70,Clothing,Leggings,COD,1
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,1351,111,6,8106,8772,Electronics,Electronic Games,COD,1
+B-25881,25-11-2018,Lalita,Uttar Pradesh,Mathura,2115,23,5,10575,10690,Furniture,Chairs,COD,1
+B-25761,25-08-2018,Madhav,Uttar Pradesh,Mathura,2188,1050,5,10940,16190,Furniture,Bookcases,Credit Card,1
+B-25761,25-08-2018,Madhav,Uttar Pradesh,Mathura,418,70,7,2926,3416,Electronics,Phones,COD,1
+B-25761,25-08-2018,Madhav,Uttar Pradesh,Mathura,102,-90,1,102,12,Clothing,Saree,COD,1
+B-25761,25-08-2018,Madhav,Uttar Pradesh,Mathura,263,-31,9,2367,2088,Electronics,Electronic Games,Debit Card,1
+B-25761,25-08-2018,Madhav,Uttar Pradesh,Mathura,328,-15,3,984,939,Electronics,Electronic Games,Debit Card,1
+B-25761,25-08-2018,Madhav,Uttar Pradesh,Mathura,40,0,3,120,120,Clothing,Saree,Credit Card,1
+B-25887,01-12-2018,Vishakha,Uttar Pradesh,Prayagraj,2125,-234,6,12750,11346,Electronics,Printers,EMI,1
+B-25887,01-12-2018,Vishakha,Uttar Pradesh,Prayagraj,83,6,6,498,534,Clothing,Shirt,EMI,1
+B-25823,18-10-2018,Rohan,Maharashtra,Mumbai,59,6,1,59,65,Electronics,Accessories,UPI,1
+B-25823,18-10-2018,Rohan,Maharashtra,Mumbai,103,50,2,206,306,Furniture,Furnishings,UPI,1
+B-25823,18-10-2018,Rohan,Maharashtra,Mumbai,104,2,2,208,212,Furniture,Furnishings,COD,1
+B-25823,18-10-2018,Rohan,Maharashtra,Mumbai,2103,322,8,16824,19400,Electronics,Electronic Games,UPI,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,2093,721,5,10465,14070,Furniture,Chairs,Credit Card,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,39,16,6,234,330,Clothing,Skirt,UPI,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,199,48,4,796,988,Clothing,Stole,UPI,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,26,11,2,52,74,Clothing,Hankerchief,UPI,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,30,14,3,90,132,Clothing,Hankerchief,UPI,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,128,4,3,384,396,Clothing,Saree,COD,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,95,11,4,380,424,Furniture,Furnishings,COD,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,199,6,2,398,410,Clothing,Saree,UPI,1
+B-25853,08-11-2018,Gaurav,Gujarat,Ahmedabad,579,139,3,1737,2154,Electronics,Printers,Debit Card,1
+B-25862,15-11-2018,Amol,Bihar,Patna,121,41,4,484,648,Clothing,Stole,EMI,1
+B-25862,15-11-2018,Amol,Bihar,Patna,80,3,3,240,249,Clothing,Stole,EMI,1
+B-25862,15-11-2018,Amol,Bihar,Patna,2061,701,5,10305,13810,Furniture,Bookcases,UPI,1
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,1954,782,3,5862,8208,Electronics,Phones,Credit Card,1
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,93,15,2,186,216,Electronics,Accessories,COD,1
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,71,0,8,568,568,Clothing,Skirt,COD,1
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,54,1,2,108,110,Clothing,Saree,UPI,1
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,41,11,6,246,312,Clothing,Hankerchief,COD,1
+B-25830,26-10-2018,Aastha,Himachal Pradesh,Simla,1063,64,7,7441,7889,Electronics,Phones,EMI,1
+B-25786,19-09-2018,Madan Mohan,Uttar Pradesh,Mathura,1854,433,5,9270,11435,Furniture,Bookcases,Credit Card,1
+B-25786,19-09-2018,Madan Mohan,Uttar Pradesh,Mathura,623,-192,3,1869,1293,Furniture,Tables,UPI,1
+B-25786,19-09-2018,Madan Mohan,Uttar Pradesh,Mathura,44,-34,3,132,30,Clothing,Stole,Credit Card,1
+B-25786,19-09-2018,Madan Mohan,Uttar Pradesh,Mathura,17,-11,3,51,18,Clothing,Skirt,UPI,1
+B-25686,11-06-2018,Pooja,Himachal Pradesh,Simla,1829,-56,6,10974,10638,Furniture,Tables,Credit Card,1
+B-25686,11-06-2018,Pooja,Himachal Pradesh,Simla,381,-13,2,762,736,Clothing,Saree,COD,1
+B-25686,11-06-2018,Pooja,Himachal Pradesh,Simla,332,503,3,996,2505,Electronics,Printers,COD,1
+B-26022,18-02-2018,Shrichand,Punjab,Chandigarh,1824,1303,8,14592,25016,Electronics,Phones,Credit Card,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,1745,122,2,3490,3734,Furniture,Tables,Credit Card,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,498,-116,4,1992,1528,Clothing,Saree,UPI,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,315,-8,3,945,921,Furniture,Chairs,Credit Card,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,79,16,3,237,285,Clothing,T-shirt,COD,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,128,47,4,512,700,Clothing,Hankerchief,COD,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,114,41,6,684,930,Furniture,Furnishings,COD,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,652,13,6,3912,3990,Furniture,Furnishings,Debit Card,1
+B-26003,08-02-2018,Hitesh,Madhya Pradesh,Bhopal,17,2,2,34,38,Clothing,Skirt,UPI,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,1709,564,3,5127,6819,Clothing,Trousers,Credit Card,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,134,-34,2,268,200,Furniture,Chairs,COD,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,47,-3,2,94,88,Clothing,Stole,UPI,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,257,-3,2,514,508,Furniture,Bookcases,UPI,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,80,-19,5,400,305,Clothing,Stole,UPI,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,26,4,2,52,60,Clothing,Saree,UPI,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,593,213,4,2372,3224,Furniture,Bookcases,Debit Card,1
+B-25755,19-08-2018,Shourya,Kerala ,Thiruvananthapuram,321,315,5,1605,3180,Clothing,Saree,UPI,1
+B-25902,10-12-2018,Ishpreet,Maharashtra,Mumbai,268,6,2,536,548,Furniture,Bookcases,UPI,1
+B-25902,10-12-2018,Ishpreet,Maharashtra,Mumbai,79,6,7,553,595,Clothing,Saree,COD,1
+B-25902,10-12-2018,Ishpreet,Maharashtra,Mumbai,154,26,4,616,720,Electronics,Accessories,COD,1
+B-25902,10-12-2018,Ishpreet,Maharashtra,Mumbai,1700,85,3,5100,5355,Clothing,Trousers,COD,1
+B-25902,10-12-2018,Ishpreet,Maharashtra,Mumbai,802,120,7,5614,6454,Electronics,Accessories,COD,1
+B-25935,04-01-2018,Sudhir,Nagaland,Kohima,1657,460,4,6628,8468,Furniture,Chairs,Credit Card,1
+B-25935,04-01-2018,Sudhir,Nagaland,Kohima,162,20,3,486,546,Furniture,Chairs,EMI,1
+B-25935,04-01-2018,Sudhir,Nagaland,Kohima,150,32,3,450,546,Clothing,Hankerchief,COD,1
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,1630,802,5,8150,12160,Furniture,Tables,EMI,1
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,413,-314,9,3717,891,Furniture,Chairs,COD,1
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,31,1,2,62,64,Clothing,Hankerchief,UPI,1
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,148,-101,2,296,94,Furniture,Bookcases,UPI,1
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,89,-4,5,445,425,Clothing,Saree,Credit Card,1
+B-25797,30-09-2018,Sauptik,Madhya Pradesh,Indore,976,293,4,3904,5076,Electronics,Accessories,COD,1
+B-25639,27-04-2018,Lisha,Madhya Pradesh,Bhopal,1629,-153,3,4887,4428,Electronics,Phones,COD,1
+B-25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,1096,658,7,7672,12278,Electronics,Electronic Games,COD,1
+B-25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,1625,-77,3,4875,4644,Electronics,Phones,EMI,1
+B-25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,523,204,7,3661,5089,Clothing,Trousers,COD,1
+B-25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,44,-3,1,44,41,Clothing,Saree,Debit Card,1
+B-25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,243,-14,2,486,458,Furniture,Chairs,COD,1
+B-25681,04-06-2018,Bhawna,Madhya Pradesh,Indore,68,-27,3,204,123,Electronics,Accessories,UPI,1
+B-25909,13-12-2018,Sujay,Maharashtra,Pune,1622,-448,3,4866,3522,Electronics,Phones,EMI,1
+B-25909,13-12-2018,Sujay,Maharashtra,Pune,108,22,3,324,390,Electronics,Accessories,COD,1
+B-25909,13-12-2018,Sujay,Maharashtra,Pune,323,122,5,1615,2225,Electronics,Phones,UPI,1
+B-25909,13-12-2018,Sujay,Maharashtra,Pune,168,56,3,504,672,Clothing,Saree,COD,1
+B-25909,13-12-2018,Sujay,Maharashtra,Pune,12,2,2,24,28,Clothing,Skirt,Credit Card,1
+B-25910,14-12-2018,Jay,Delhi,Delhi,1622,-624,5,8110,4990,Furniture,Tables,Credit Card,1
+B-25910,14-12-2018,Jay,Delhi,Delhi,259,47,5,1295,1530,Clothing,Hankerchief,Credit Card,1
+B-25910,14-12-2018,Jay,Delhi,Delhi,685,7,7,4795,4844,Clothing,Trousers,UPI,1
+B-25910,14-12-2018,Jay,Delhi,Delhi,125,15,5,625,700,Clothing,Shirt,EMI,1
+B-25910,14-12-2018,Jay,Delhi,Delhi,33,1,2,66,68,Clothing,Shirt,COD,1
+B-25910,14-12-2018,Jay,Delhi,Delhi,850,-289,5,4250,2805,Electronics,Electronic Games,COD,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,1622,95,5,8110,8585,Electronics,Printers,Credit Card,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,644,167,2,1288,1622,Electronics,Printers,COD,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,136,-33,5,680,515,Clothing,Saree,COD,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,261,13,6,1566,1644,Clothing,Shirt,Credit Card,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,190,19,9,1710,1881,Furniture,Furnishings,Credit Card,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,133,5,5,665,690,Clothing,Stole,UPI,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,158,-29,10,1580,1290,Clothing,Hankerchief,EMI,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,54,27,2,108,162,Clothing,Stole,COD,1
+B-25950,13-01-2018,Shruti,Madhya Pradesh,Indore,13,4,1,13,17,Clothing,Leggings,UPI,1
+B-25613,12-04-2018,Mohan,Haryana,Chandigarh,1603,0,9,14427,14427,Clothing,Saree,Credit Card,1
+B-25919,23-12-2018,Neha,Rajasthan,Udaipur,110,12,7,770,854,Clothing,Stole,Debit Card,1
+B-25919,23-12-2018,Neha,Rajasthan,Udaipur,1599,37,6,9594,9816,Electronics,Electronic Games,UPI,1
+B-25919,23-12-2018,Neha,Rajasthan,Udaipur,28,4,1,28,32,Clothing,T-shirt,COD,1
+B-25919,23-12-2018,Neha,Rajasthan,Udaipur,636,-204,2,1272,864,Electronics,Printers,Debit Card,1
+B-25919,23-12-2018,Neha,Rajasthan,Udaipur,977,-244,7,6839,5131,Electronics,Phones,COD,1
+B-25768,01-09-2018,Shreyoshe,Karnataka,Bangalore,1582,-443,6,9492,6834,Clothing,Trousers,EMI,1
+B-25629,24-04-2018,Hemant,Kerala ,Thiruvananthapuram,1560,421,3,4680,5943,Clothing,Trousers,COD,1
+B-25729,22-07-2018,Madhulika,Madhya Pradesh,Bhopal,1549,-439,4,6196,4440,Electronics,Phones,Credit Card,1
+B-25943,09-01-2018,Shardul,Gujarat,Ahmedabad,1547,340,6,9282,11322,Electronics,Accessories,EMI,1
+B-25943,09-01-2018,Shardul,Gujarat,Ahmedabad,48,20,4,192,272,Clothing,Stole,UPI,1
+B-25943,09-01-2018,Shardul,Gujarat,Ahmedabad,137,38,5,685,875,Clothing,Hankerchief,Debit Card,1
+B-25943,09-01-2018,Shardul,Gujarat,Ahmedabad,149,15,3,447,492,Clothing,Saree,Debit Card,1
+B-25943,09-01-2018,Shardul,Gujarat,Ahmedabad,26,7,4,104,132,Clothing,Hankerchief,COD,1
+B-25842,02-11-2018,Sheetal,Maharashtra,Pune,1543,370,8,12344,15304,Electronics,Printers,Credit Card,1
+B-26073,21-03-2018,Pournamasi,Madhya Pradesh,Indore,37,17,3,111,162,Clothing,Hankerchief,Debit Card,1
+B-26073,21-03-2018,Pournamasi,Madhya Pradesh,Indore,122,11,4,488,532,Clothing,Hankerchief,COD,1
+B-26073,21-03-2018,Pournamasi,Madhya Pradesh,Indore,290,110,9,2610,3600,Clothing,Stole,UPI,1
+B-26073,21-03-2018,Pournamasi,Madhya Pradesh,Indore,29,9,3,87,114,Clothing,Saree,UPI,1
+B-26073,21-03-2018,Pournamasi,Madhya Pradesh,Indore,1514,742,4,6056,9024,Electronics,Printers,EMI,1
+B-25778,11-09-2018,Surabhi,Maharashtra,Mumbai,1506,-266,6,9036,7440,Electronics,Printers,Credit Card,1
+B-25778,11-09-2018,Surabhi,Maharashtra,Mumbai,933,166,5,4665,5495,Clothing,Saree,Credit Card,1
+B-25778,11-09-2018,Surabhi,Maharashtra,Mumbai,109,-6,6,654,618,Clothing,Saree,COD,1
+B-25778,11-09-2018,Surabhi,Maharashtra,Mumbai,724,-447,4,2896,1108,Electronics,Electronic Games,UPI,1
+B-25717,12-07-2018,Manshul,Uttar Pradesh,Lucknow,561,212,3,1683,2319,Clothing,Saree,Credit Card,1
+B-25717,12-07-2018,Manshul,Uttar Pradesh,Lucknow,138,-3,5,690,675,Clothing,Saree,COD,1
+B-25717,12-07-2018,Manshul,Uttar Pradesh,Lucknow,90,17,3,270,321,Clothing,Shirt,COD,1
+B-25717,12-07-2018,Manshul,Uttar Pradesh,Lucknow,55,-33,2,110,44,Furniture,Chairs,COD,1
+B-26085,26-03-2018,Shrichand,Punjab,Chandigarh,1487,624,3,4461,6333,Clothing,Trousers,Credit Card,1
+B-26085,26-03-2018,Shrichand,Punjab,Chandigarh,132,-10,3,396,366,Clothing,Saree,COD,1
+B-26085,26-03-2018,Shrichand,Punjab,Chandigarh,86,22,2,172,216,Clothing,Saree,COD,1
+B-26085,26-03-2018,Shrichand,Punjab,Chandigarh,40,17,2,80,114,Clothing,Stole,COD,1
+B-26048,04-03-2018,Parth,Maharashtra,Pune,1461,202,5,7305,8315,Furniture,Tables,EMI,1
+B-26048,04-03-2018,Parth,Maharashtra,Pune,401,13,6,2406,2484,Furniture,Chairs,Credit Card,1
+B-26048,04-03-2018,Parth,Maharashtra,Pune,163,81,2,326,488,Electronics,Accessories,COD,1
+B-26048,04-03-2018,Parth,Maharashtra,Pune,1104,209,4,4416,5252,Clothing,Trousers,UPI,1
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,60,-12,4,240,192,Clothing,Hankerchief,Debit Card,1
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,257,-252,4,1028,20,Clothing,Saree,Debit Card,1
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,63,-24,6,378,234,Clothing,Kurti,COD,1
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,40,-33,5,200,35,Clothing,Hankerchief,Credit Card,1
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,24,-1,4,96,92,Clothing,Skirt,Credit Card,1
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,18,1,3,54,57,Clothing,Hankerchief,COD,1
+B-25793,24-09-2018,Siddharth,Madhya Pradesh,Indore,1402,109,11,15422,16621,Clothing,Saree,EMI,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,24,-1,2,48,46,Clothing,Hankerchief,COD,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,6,3,1,6,9,Clothing,Hankerchief,COD,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,30,-5,5,150,125,Clothing,Stole,UPI,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,406,126,2,812,1064,Clothing,Saree,COD,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,56,18,2,112,148,Clothing,Hankerchief,Debit Card,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,101,18,9,909,1071,Clothing,Skirt,COD,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,61,-23,2,122,76,Clothing,Saree,COD,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,534,0,3,1602,1602,Clothing,Saree,Debit Card,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,624,37,2,1248,1322,Electronics,Electronic Games,Debit Card,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,651,169,5,3255,4100,Electronics,Printers,COD,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,13,-1,3,39,36,Clothing,Hankerchief,COD,1
+B-25656,11-05-2018,Priyanka,Maharashtra,Pune,1389,680,7,9723,14483,Clothing,Saree,COD,1
+B-25608,08-04-2018,Aarushi,Tamil Nadu,Chennai,1364,1864,5,6820,16140,Furniture,Tables,Credit Card,1
+B-25608,08-04-2018,Aarushi,Tamil Nadu,Chennai,476,0,3,1428,1428,Furniture,Chairs,COD,1
+B-25608,08-04-2018,Aarushi,Tamil Nadu,Chennai,257,23,5,1285,1400,Clothing,Hankerchief,COD,1
+B-25608,08-04-2018,Aarushi,Tamil Nadu,Chennai,856,385,6,5136,7446,Electronics,Printers,COD,1
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,761,266,9,6849,9243,Electronics,Electronic Games,COD,1
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,735,-235,6,4410,3000,Electronics,Printers,COD,1
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,76,27,5,380,515,Clothing,Stole,COD,1
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,91,15,6,546,636,Clothing,T-shirt,UPI,1
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,33,-27,1,33,6,Furniture,Chairs,Credit Card,1
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,1361,197,9,12249,14022,Furniture,Bookcases,COD,1
+B-25752,14-08-2018,Vaibhav,Madhya Pradesh,Indore,8,-2,2,16,12,Clothing,Hankerchief,COD,1
+B-25779,12-09-2018,Savi,Maharashtra,Pune,1361,980,3,4083,7023,Furniture,Tables,COD,1
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,12,1,2,24,26,Clothing,Hankerchief,COD,1
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,107,36,6,642,858,Clothing,Stole,COD,1
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,116,16,4,464,528,Clothing,Stole,COD,1
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,180,5,3,540,555,Clothing,Trousers,Debit Card,1
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,193,-166,3,579,81,Clothing,Saree,EMI,1
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,38,18,1,38,56,Clothing,Kurti,COD,1
+B-25603,03-04-2018,Jahan,Madhya Pradesh,Bhopal,1355,-60,5,6775,6475,Clothing,Trousers,COD,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,1337,147,7,9359,10388,Electronics,Printers,Credit Card,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,490,88,2,980,1156,Electronics,Accessories,EMI,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,382,119,2,764,1002,Clothing,Saree,Credit Card,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,216,50,4,864,1064,Clothing,Stole,COD,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,85,24,10,850,1090,Clothing,Hankerchief,Debit Card,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,80,22,3,240,306,Clothing,Stole,UPI,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,669,74,5,3345,3715,Furniture,Bookcases,COD,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,184,85,6,1104,1614,Clothing,T-shirt,UPI,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,600,-102,5,3000,2490,Electronics,Electronic Games,Debit Card,1
+B-26051,07-03-2018,Parishi,West Bengal,Kolkata,676,195,5,3380,4355,Furniture,Bookcases,Debit Card,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,1279,-640,8,10232,5112,Electronics,Printers,EMI,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,668,-31,3,2004,1911,Electronics,Printers,Credit Card,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,427,-50,7,2989,2639,Electronics,Phones,COD,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,195,-117,5,975,390,Electronics,Phones,COD,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,115,25,1,115,140,Electronics,Accessories,COD,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,168,-10,3,504,474,Electronics,Accessories,UPI,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,227,102,8,1816,2632,Electronics,Accessories,Debit Card,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,28,-3,2,56,50,Clothing,Saree,UPI,1
+B-25653,08-05-2018,Farah,Nagaland,Kohima,1327,318,8,10616,13160,Furniture,Chairs,EMI,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,829,19,4,3316,3392,Electronics,Printers,Credit Card,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,90,17,3,270,321,Clothing,Hankerchief,COD,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,98,12,2,196,220,Clothing,Hankerchief,Credit Card,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,197,73,1,197,270,Furniture,Bookcases,COD,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,61,30,2,122,182,Clothing,Hankerchief,UPI,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,442,31,2,884,946,Electronics,Electronic Games,UPI,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,550,-242,5,2750,1540,Furniture,Furnishings,UPI,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,1319,567,5,6595,9430,Electronics,Printers,COD,1
+B-25855,08-11-2018,Abhijeet,Madhya Pradesh,Bhopal,1027,441,8,8216,11744,Clothing,Saree,COD,1
+B-25762,26-08-2018,Anudeep,Madhya Pradesh,Indore,1316,527,7,9212,12901,Electronics,Electronic Games,Credit Card,1
+B-25762,26-08-2018,Anudeep,Madhya Pradesh,Indore,98,-5,2,196,186,Clothing,Saree,UPI,1
+B-25762,26-08-2018,Anudeep,Madhya Pradesh,Indore,27,4,3,81,93,Clothing,Skirt,COD,1
+B-25995,04-02-2018,Yohann,Delhi,Delhi,1314,342,3,3942,4968,Furniture,Bookcases,Credit Card,1
+B-25929,02-01-2018,Girase,Kerala ,Thiruvananthapuram,1308,536,3,3924,5532,Furniture,Bookcases,Credit Card,1
+B-25929,02-01-2018,Girase,Kerala ,Thiruvananthapuram,216,-135,3,648,243,Furniture,Chairs,Credit Card,1
+B-25929,02-01-2018,Girase,Kerala ,Thiruvananthapuram,154,-85,3,462,207,Furniture,Chairs,EMI,1
+B-26006,09-02-2018,Arpita,Karnataka,Bangalore,1301,573,5,6505,9370,Electronics,Accessories,Credit Card,1
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,1300,-16,8,10400,10272,Electronics,Printers,Credit Card,1
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,115,-39,3,345,228,Clothing,Trousers,COD,1
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,114,8,3,342,366,Electronics,Accessories,Debit Card,1
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,73,-7,1,73,66,Electronics,Phones,COD,1
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,67,-42,3,201,75,Clothing,Stole,COD,1
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,322,193,5,1610,2575,Electronics,Printers,COD,1
+B-25697,22-06-2018,Vijay,Jammu and Kashmir,Kashmir,4,-3,1,4,1,Clothing,Skirt,Credit Card,1
+B-25836,29-10-2018,Arti,Maharashtra,Pune,1298,65,9,11682,12267,Electronics,Printers,EMI,1
+B-25601,01-04-2018,Bharat,Gujarat,Ahmedabad,80,-56,4,320,96,Electronics,Electronic Games,UPI,1
+B-25601,01-04-2018,Bharat,Gujarat,Ahmedabad,66,-12,5,330,270,Clothing,Stole,UPI,1
+B-25601,01-04-2018,Bharat,Gujarat,Ahmedabad,1275,1148,7,8925,16961,Furniture,Bookcases,EMI,1
+B-25601,01-04-2018,Bharat,Gujarat,Ahmedabad,8,-2,3,24,18,Clothing,Hankerchief,Credit Card,1
+B-25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,42,12,2,84,108,Clothing,Kurti,COD,1
+B-25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,1275,357,2,2550,3264,Electronics,Phones,UPI,1
+B-25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,66,12,3,198,234,Clothing,Stole,COD,1
+B-25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,367,73,3,1101,1320,Electronics,Electronic Games,UPI,1
+B-25873,23-11-2018,Divyeta,Madhya Pradesh,Indore,7,1,1,7,8,Clothing,Hankerchief,COD,1
+B-26028,20-02-2018,Manju,Andhra Pradesh,Hyderabad,1272,547,2,2544,3638,Electronics,Phones,COD,1
+B-26028,20-02-2018,Manju,Andhra Pradesh,Hyderabad,115,0,1,115,115,Electronics,Accessories,Debit Card,1
+B-26028,20-02-2018,Manju,Andhra Pradesh,Hyderabad,77,36,2,154,226,Clothing,Shirt,EMI,1
+B-25964,20-01-2018,Oshin,Maharashtra,Pune,346,108,3,1038,1362,Furniture,Chairs,COD,1
+B-25964,20-01-2018,Oshin,Maharashtra,Pune,199,0,4,796,796,Clothing,Stole,EMI,1
+B-25964,20-01-2018,Oshin,Maharashtra,Pune,89,6,5,445,475,Clothing,Saree,COD,1
+B-25964,20-01-2018,Oshin,Maharashtra,Pune,1270,546,11,13970,19976,Electronics,Electronic Games,EMI,1
+B-25676,01-06-2018,Chandni,Rajasthan,Jaipur,674,-187,2,1348,974,Furniture,Tables,COD,1
+B-25676,01-06-2018,Chandni,Rajasthan,Jaipur,342,-103,4,1368,956,Electronics,Electronic Games,COD,1
+B-25676,01-06-2018,Chandni,Rajasthan,Jaipur,79,36,4,316,460,Clothing,Shirt,COD,1
+B-25676,01-06-2018,Chandni,Rajasthan,Jaipur,32,6,3,96,114,Clothing,Shirt,COD,1
+B-25676,01-06-2018,Chandni,Rajasthan,Jaipur,1263,-56,5,6315,6035,Clothing,Trousers,EMI,1
+B-25839,30-10-2018,Pranjali,West Bengal,Kolkata,1250,486,7,8750,12152,Clothing,Saree,EMI,1
+B-25894,04-12-2018,Monu,Punjab,Amritsar,1246,62,3,3738,3924,Furniture,Bookcases,EMI,1
+B-25925,29-12-2018,Shruti,Maharashtra,Mumbai,27,12,1,27,39,Clothing,Stole,Debit Card,1
+B-25925,29-12-2018,Shruti,Maharashtra,Mumbai,314,-41,3,942,819,Electronics,Electronic Games,Credit Card,1
+B-25925,29-12-2018,Shruti,Maharashtra,Mumbai,1228,14,3,3684,3726,Furniture,Chairs,UPI,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,744,119,6,4464,5178,Electronics,Printers,COD,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,67,20,4,268,348,Clothing,T-shirt,UPI,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,81,41,3,243,366,Clothing,Stole,Debit Card,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,116,22,1,116,138,Electronics,Accessories,Credit Card,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,87,36,5,435,615,Clothing,Stole,Credit Card,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,44,2,3,132,138,Clothing,Hankerchief,COD,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,22,-8,4,88,56,Clothing,Hankerchief,Credit Card,1
+B-25953,14-01-2018,Krutika,Andhra Pradesh,Hyderabad,1218,352,9,10962,14130,Furniture,Bookcases,EMI,1
+B-25772,02-09-2018,Sanjana,Bihar,Patna,1183,106,4,4732,5156,Electronics,Printers,EMI,1
+B-25957,18-01-2018,Mahima,Madhya Pradesh,Indore,147,73,3,441,660,Clothing,Stole,COD,1
+B-25957,18-01-2018,Mahima,Madhya Pradesh,Indore,1157,-13,9,10413,10296,Furniture,Bookcases,Credit Card,1
+B-25957,18-01-2018,Mahima,Madhya Pradesh,Indore,209,2,1,209,211,Clothing,Saree,COD,1
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,1145,-706,3,3435,1317,Electronics,Phones,Credit Card,1
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,18,8,2,36,52,Clothing,Hankerchief,Debit Card,1
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,473,42,4,1892,2060,Furniture,Chairs,COD,1
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,187,30,4,748,868,Electronics,Accessories,Credit Card,1
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,83,-81,3,249,6,Furniture,Chairs,COD,1
+B-25730,22-07-2018,Rishabh,Rajasthan,Jaipur,96,22,5,480,590,Clothing,Stole,Credit Card,1
+B-25877,24-11-2018,Dashyam,Gujarat,Surat,24,8,2,48,64,Clothing,Skirt,Debit Card,1
+B-25877,24-11-2018,Dashyam,Gujarat,Surat,269,33,5,1345,1510,Furniture,Chairs,Debit Card,1
+B-25877,24-11-2018,Dashyam,Gujarat,Surat,1137,568,2,2274,3410,Clothing,Trousers,EMI,1
+B-26067,16-03-2018,Tulika,Madhya Pradesh,Bhopal,1137,-14,7,7959,7861,Electronics,Printers,EMI,1
+B-26067,16-03-2018,Tulika,Madhya Pradesh,Bhopal,1120,199,6,6720,7914,Clothing,Saree,EMI,1
+B-26067,16-03-2018,Tulika,Madhya Pradesh,Bhopal,53,2,4,212,220,Clothing,Hankerchief,COD,1
+B-26067,16-03-2018,Tulika,Madhya Pradesh,Bhopal,618,27,4,2472,2580,Furniture,Bookcases,Credit Card,1
+B-26067,16-03-2018,Tulika,Madhya Pradesh,Bhopal,67,2,4,268,276,Clothing,T-shirt,UPI,1
+B-25810,10-10-2018,Nripraj,Punjab,Chandigarh,1120,199,6,6720,7914,Clothing,Saree,EMI,1
+B-25810,10-10-2018,Nripraj,Punjab,Chandigarh,29,8,5,145,185,Clothing,Hankerchief,UPI,1
+B-25810,10-10-2018,Nripraj,Punjab,Chandigarh,307,74,3,921,1143,Electronics,Accessories,EMI,1
+B-25810,10-10-2018,Nripraj,Punjab,Chandigarh,92,42,2,184,268,Clothing,Stole,COD,1
+B-25810,10-10-2018,Nripraj,Punjab,Chandigarh,45,6,3,135,153,Clothing,Shirt,COD,1
+B-25810,10-10-2018,Nripraj,Punjab,Chandigarh,26,10,4,104,144,Clothing,Hankerchief,UPI,1
+B-25868,18-11-2018,Vikash,Goa,Goa,1118,206,2,2236,2648,Furniture,Tables,Credit Card,1
+B-25868,18-11-2018,Vikash,Goa,Goa,170,73,2,340,486,Electronics,Accessories,UPI,1
+B-25868,18-11-2018,Vikash,Goa,Goa,62,-1,1,62,61,Electronics,Phones,UPI,1
+B-26023,19-02-2018,Mukesh,Haryana,Chandigarh,66,22,3,198,264,Clothing,Stole,UPI,1
+B-26023,19-02-2018,Mukesh,Haryana,Chandigarh,59,21,2,118,160,Clothing,Stole,Debit Card,1
+B-26023,19-02-2018,Mukesh,Haryana,Chandigarh,29,0,3,87,87,Furniture,Furnishings,COD,1
+B-26023,19-02-2018,Mukesh,Haryana,Chandigarh,1117,447,10,11170,15640,Furniture,Bookcases,EMI,1
+B-25626,23-04-2018,Bhishm,Maharashtra,Mumbai,46,-14,1,46,32,Electronics,Phones,COD,1
+B-25626,23-04-2018,Bhishm,Maharashtra,Mumbai,1103,276,3,3309,4137,Furniture,Chairs,EMI,1
+B-25937,05-01-2018,Ankit,Haryana,Chandigarh,1101,352,3,3303,4359,Furniture,Bookcases,UPI,1
+B-25610,09-04-2018,Yogesh,Bihar,Patna,43,0,3,129,129,Clothing,Saree,Debit Card,1
+B-25610,09-04-2018,Yogesh,Bihar,Patna,68,-55,5,340,65,Electronics,Accessories,UPI,1
+B-25610,09-04-2018,Yogesh,Bihar,Patna,107,-54,4,428,212,Clothing,Stole,EMI,1
+B-25610,09-04-2018,Yogesh,Bihar,Patna,30,-5,2,60,50,Furniture,Furnishings,COD,1
+B-25610,09-04-2018,Yogesh,Bihar,Patna,781,594,6,4686,8250,Electronics,Printers,Debit Card,1
+B-25610,09-04-2018,Yogesh,Bihar,Patna,1076,-38,4,4304,4152,Electronics,Printers,COD,1
+B-25777,10-09-2018,Aditi,Madhya Pradesh,Indore,1076,-38,4,4304,4152,Electronics,Printers,Credit Card,1
+B-25777,10-09-2018,Aditi,Madhya Pradesh,Indore,59,-46,7,413,91,Clothing,T-shirt,UPI,1
+B-25777,10-09-2018,Aditi,Madhya Pradesh,Indore,117,17,6,702,804,Clothing,Kurti,COD,1
+B-25777,10-09-2018,Aditi,Madhya Pradesh,Indore,61,-25,4,244,144,Electronics,Accessories,UPI,1
+B-25777,10-09-2018,Aditi,Madhya Pradesh,Indore,69,-67,4,276,8,Clothing,Kurti,UPI,1
+B-25738,02-08-2018,Ayush,Punjab,Chandigarh,70,-14,2,140,112,Furniture,Furnishings,UPI,1
+B-25738,02-08-2018,Ayush,Punjab,Chandigarh,72,-6,3,216,198,Clothing,Saree,UPI,1
+B-25738,02-08-2018,Ayush,Punjab,Chandigarh,148,-91,2,296,114,Electronics,Phones,COD,1
+B-25738,02-08-2018,Ayush,Punjab,Chandigarh,1069,0,6,6414,6414,Clothing,Saree,EMI,1
+B-25978,27-01-2018,Parin,Maharashtra,Mumbai,341,160,7,2387,3507,Clothing,Stole,Debit Card,1
+B-25978,27-01-2018,Parin,Maharashtra,Mumbai,1063,-175,4,4252,3552,Electronics,Electronic Games,EMI,1
+B-25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,50,-44,2,100,12,Clothing,Hankerchief,UPI,1
+B-25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,1061,-36,8,8488,8200,Furniture,Bookcases,EMI,1
+B-25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,37,-23,4,148,56,Clothing,Shirt,UPI,1
+B-25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,263,-63,2,526,400,Electronics,Electronic Games,Debit Card,1
+B-25643,29-04-2018,Kirti,Jammu and Kashmir,Kashmir,36,-7,1,36,29,Electronics,Electronic Games,COD,1
+B-25728,22-07-2018,Ameesha,Maharashtra,Pune,1055,264,4,4220,5276,Electronics,Printers,EMI,1
+B-25728,22-07-2018,Ameesha,Maharashtra,Pune,771,-424,2,1542,694,Electronics,Phones,Credit Card,1
+B-25728,22-07-2018,Ameesha,Maharashtra,Pune,322,-113,4,1288,836,Clothing,Saree,Credit Card,1
+B-25749,13-08-2018,Ayush,Maharashtra,Mumbai,1052,-82,3,3156,2910,Furniture,Bookcases,UPI,1
+B-25667,23-05-2018,Anjali,Haryana,Chandigarh,11,-2,4,44,36,Clothing,Hankerchief,COD,1
+B-25667,23-05-2018,Anjali,Haryana,Chandigarh,344,-34,3,1032,930,Clothing,Saree,Debit Card,1
+B-25667,23-05-2018,Anjali,Haryana,Chandigarh,41,6,5,205,235,Clothing,Skirt,Credit Card,1
+B-25667,23-05-2018,Anjali,Haryana,Chandigarh,516,69,4,2064,2340,Furniture,Bookcases,UPI,1
+B-25667,23-05-2018,Anjali,Haryana,Chandigarh,1030,206,8,8240,9888,Electronics,Printers,UPI,1
+B-25657,13-05-2018,Tulika,Madhya Pradesh,Bhopal,1021,-48,4,4084,3892,Electronics,Electronic Games,EMI,1
+B-25657,13-05-2018,Tulika,Madhya Pradesh,Bhopal,32,-22,5,160,50,Clothing,Saree,UPI,1
+B-25657,13-05-2018,Tulika,Madhya Pradesh,Bhopal,288,-180,4,1152,432,Furniture,Chairs,COD,1
+B-25657,13-05-2018,Tulika,Madhya Pradesh,Bhopal,332,-43,6,1992,1734,Electronics,Phones,UPI,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,341,-85,6,2046,1536,Clothing,Trousers,Credit Card,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,154,22,7,1078,1232,Clothing,T-shirt,COD,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,65,-52,3,195,39,Electronics,Accessories,COD,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,62,-56,5,310,30,Clothing,Kurti,COD,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,77,-43,8,616,272,Clothing,Stole,COD,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,27,-20,2,54,14,Clothing,Hankerchief,COD,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,107,31,5,535,690,Clothing,T-shirt,COD,1
+B-25753,17-08-2018,Shivam,Uttar Pradesh,Lucknow,620,82,6,3720,4212,Electronics,Accessories,COD,1
+B-26061,14-03-2018,Anurag,Madhya Pradesh,Indore,965,-68,3,2895,2691,Electronics,Printers,COD,1
+B-26061,14-03-2018,Anurag,Madhya Pradesh,Indore,27,8,2,54,70,Clothing,T-shirt,Debit Card,1
+B-26061,14-03-2018,Anurag,Madhya Pradesh,Indore,206,12,1,206,218,Electronics,Printers,Credit Card,1
+B-26061,14-03-2018,Anurag,Madhya Pradesh,Indore,109,52,2,218,322,Clothing,Stole,UPI,1
+B-26061,14-03-2018,Anurag,Madhya Pradesh,Indore,508,203,2,1016,1422,Electronics,Accessories,Debit Card,1
+B-26061,14-03-2018,Anurag,Madhya Pradesh,Indore,642,180,5,3210,4110,Clothing,Saree,COD,1
+B-25838,29-10-2018,Sanjana,Madhya Pradesh,Indore,161,40,3,483,603,Clothing,Stole,COD,1
+B-25838,29-10-2018,Sanjana,Madhya Pradesh,Indore,81,19,7,567,700,Clothing,Hankerchief,COD,1
+B-25838,29-10-2018,Sanjana,Madhya Pradesh,Indore,70,26,5,350,480,Clothing,Hankerchief,COD,1
+B-25838,29-10-2018,Sanjana,Madhya Pradesh,Indore,955,305,3,2865,3780,Electronics,Printers,Debit Card,1
+B-25702,27-06-2018,Shaily,Maharashtra,Mumbai,75,0,3,225,225,Clothing,Shirt,EMI,1
+B-25702,27-06-2018,Shaily,Maharashtra,Mumbai,306,-147,3,918,477,Clothing,Saree,Debit Card,1
+B-25702,27-06-2018,Shaily,Maharashtra,Mumbai,424,-17,9,3816,3663,Furniture,Chairs,Debit Card,1
+B-25702,27-06-2018,Shaily,Maharashtra,Mumbai,31,-3,4,124,112,Clothing,Saree,COD,1
+B-25702,27-06-2018,Shaily,Maharashtra,Mumbai,941,203,3,2823,3432,Furniture,Tables,UPI,1
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,14,0,4,56,56,Clothing,Hankerchief,UPI,1
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,173,69,3,519,726,Furniture,Chairs,COD,1
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,147,48,3,441,585,Clothing,Saree,COD,1
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,87,-32,9,783,495,Clothing,Skirt,COD,1
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,44,14,3,132,174,Clothing,Hankerchief,COD,1
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,352,18,5,1760,1850,Clothing,Trousers,Debit Card,1
+B-25952,13-01-2018,Priyanka,Madhya Pradesh,Indore,935,114,4,3740,4196,Electronics,Electronic Games,UPI,1
+B-25666,22-05-2018,Tanvi,Punjab,Chandigarh,934,-916,7,6538,126,Electronics,Electronic Games,COD,1
+B-25675,31-05-2018,Shreya,Madhya Pradesh,Bhopal,929,-93,9,8361,7524,Clothing,Saree,COD,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,512,-225,5,2560,1435,Clothing,Saree,COD,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,351,-47,8,2808,2432,Electronics,Phones,COD,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,238,20,2,476,516,Clothing,Saree,COD,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,269,111,3,807,1140,Clothing,Trousers,EMI,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,211,-105,2,422,212,Clothing,Saree,Credit Card,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,245,-78,2,490,334,Electronics,Printers,UPI,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,31,-2,2,62,58,Clothing,Saree,Credit Card,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,28,-26,2,56,4,Clothing,Stole,UPI,1
+B-25650,06-05-2018,Chirag,Maharashtra,Mumbai,925,-447,5,4625,2390,Electronics,Electronic Games,COD,1
+B-25986,31-01-2018,Shweta,Rajasthan,Udaipur,749,-307,7,5243,3094,Furniture,Furnishings,COD,1
+B-25986,31-01-2018,Shweta,Rajasthan,Udaipur,71,4,5,355,375,Clothing,Leggings,Debit Card,1
+B-25986,31-01-2018,Shweta,Rajasthan,Udaipur,487,-23,3,1461,1392,Electronics,Printers,Debit Card,1
+B-25986,31-01-2018,Shweta,Rajasthan,Udaipur,918,22,9,8262,8460,Electronics,Electronic Games,COD,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,916,192,11,10076,12188,Electronics,Phones,COD,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,93,-1,2,186,184,Clothing,Hankerchief,COD,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,24,1,4,96,100,Clothing,Hankerchief,COD,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,485,199,4,1940,2736,Clothing,Saree,EMI,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,45,1,3,135,138,Clothing,T-shirt,Debit Card,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,148,24,3,444,516,Clothing,Stole,COD,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,52,18,5,260,350,Clothing,Leggings,Debit Card,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,117,36,2,234,306,Clothing,Trousers,Debit Card,1
+B-25850,05-11-2018,Abhishek,Goa,Goa,513,215,2,1026,1456,Electronics,Accessories,COD,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,857,-274,2,1714,1166,Furniture,Tables,COD,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,33,13,3,99,138,Clothing,Leggings,UPI,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,171,2,2,342,346,Electronics,Electronic Games,COD,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,147,73,3,441,660,Clothing,Stole,UPI,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,53,5,3,159,174,Clothing,T-shirt,COD,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,499,33,4,1996,2128,Clothing,Saree,COD,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,191,93,4,764,1136,Clothing,Shirt,UPI,1
+B-25898,07-12-2018,Abhishek,Rajasthan,Udaipur,915,-99,3,2745,2448,Furniture,Tables,Debit Card,1
+B-25813,10-10-2018,Hrisheekesh,Maharashtra,Mumbai,911,202,7,6377,7791,Furniture,Chairs,COD,1
+B-25825,21-10-2018,Kartik,Madhya Pradesh,Indore,140,6,5,700,730,Clothing,Saree,COD,1
+B-25825,21-10-2018,Kartik,Madhya Pradesh,Indore,115,25,6,690,840,Clothing,Stole,COD,1
+B-25825,21-10-2018,Kartik,Madhya Pradesh,Indore,911,355,5,4555,6330,Electronics,Phones,Debit Card,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,27,0,2,54,54,Clothing,Leggings,COD,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,148,9,1,148,157,Electronics,Electronic Games,UPI,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,146,66,1,146,212,Electronics,Phones,UPI,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,891,0,5,4455,4455,Clothing,Saree,COD,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,189,60,4,756,996,Furniture,Furnishings,Debit Card,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,48,11,2,96,118,Clothing,Shirt,COD,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,44,10,3,132,162,Clothing,Stole,COD,1
+B-25954,14-01-2018,Trupti,Gujarat,Ahmedabad,524,-25,2,1048,998,Electronics,Electronic Games,Debit Card,1
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,275,-275,4,1100,0,Clothing,Saree,COD,1
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,44,99,3,132,429,Clothing,Kurti,Debit Card,1
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,117,-6,3,351,333,Electronics,Phones,COD,1
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,116,-4,1,116,112,Clothing,Saree,COD,1
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,168,-9,3,504,477,Clothing,Saree,COD,1
+B-25696,21-06-2018,Noopur,Karnataka,Bangalore,887,80,3,2661,2901,Electronics,Printers,UPI,1
+B-25638,26-04-2018,Parth,Maharashtra,Pune,182,-11,3,546,513,Furniture,Bookcases,Credit Card,1
+B-25638,26-04-2018,Parth,Maharashtra,Pune,154,39,3,462,579,Clothing,Hankerchief,COD,1
+B-25638,26-04-2018,Parth,Maharashtra,Pune,816,-96,3,2448,2160,Electronics,Printers,Debit Card,1
+B-25638,26-04-2018,Parth,Maharashtra,Pune,880,97,8,7040,7816,Furniture,Furnishings,Debit Card,1
+B-25747,11-08-2018,Harsh,Madhya Pradesh,Bhopal,877,395,2,1754,2544,Furniture,Bookcases,Credit Card,1
+B-25904,10-12-2018,Swapnil,Delhi,Delhi,83,12,2,166,190,Furniture,Chairs,COD,1
+B-25904,10-12-2018,Swapnil,Delhi,Delhi,871,131,2,1742,2004,Furniture,Bookcases,UPI,1
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,869,67,4,3476,3744,Furniture,Tables,COD,1
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,24,1,2,48,50,Clothing,Hankerchief,COD,1
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,105,-33,5,525,360,Clothing,Kurti,COD,1
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,97,17,2,194,228,Clothing,Stole,Credit Card,1
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,45,12,4,180,228,Clothing,Hankerchief,COD,1
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,320,144,1,320,464,Electronics,Printers,Debit Card,1
+B-25852,07-11-2018,Soumyabrata,Andhra Pradesh,Hyderabad,50,16,1,50,66,Clothing,Stole,EMI,1
+B-25981,28-01-2018,Amruta,Delhi,Delhi,867,251,5,4335,5590,Electronics,Phones,COD,1
+B-25981,28-01-2018,Amruta,Delhi,Delhi,54,12,3,162,198,Clothing,Saree,Debit Card,1
+B-25981,28-01-2018,Amruta,Delhi,Delhi,62,8,2,124,140,Clothing,T-shirt,UPI,1
+B-25981,28-01-2018,Amruta,Delhi,Delhi,48,2,3,144,150,Clothing,Stole,COD,1
+B-25981,28-01-2018,Amruta,Delhi,Delhi,245,91,2,490,672,Furniture,Bookcases,UPI,1
+B-25981,28-01-2018,Amruta,Delhi,Delhi,42,13,3,126,165,Clothing,Leggings,COD,1
+B-25899,08-12-2018,Aishwarya,Uttar Pradesh,Prayagraj,22,9,2,44,62,Clothing,Leggings,Debit Card,1
+B-25899,08-12-2018,Aishwarya,Uttar Pradesh,Prayagraj,43,17,1,43,60,Clothing,Saree,COD,1
+B-25899,08-12-2018,Aishwarya,Uttar Pradesh,Prayagraj,28,6,4,112,136,Clothing,Skirt,COD,1
+B-25899,08-12-2018,Aishwarya,Uttar Pradesh,Prayagraj,846,9,2,1692,1710,Furniture,Chairs,Debit Card,1
+B-25870,20-11-2018,Pranav,Andhra Pradesh,Hyderabad,845,84,7,5915,6503,Clothing,Saree,Credit Card,1
+B-25870,20-11-2018,Pranav,Andhra Pradesh,Hyderabad,10,4,1,10,14,Clothing,Kurti,UPI,1
+B-25870,20-11-2018,Pranav,Andhra Pradesh,Hyderabad,57,7,3,171,192,Furniture,Furnishings,COD,1
+B-25870,20-11-2018,Pranav,Andhra Pradesh,Hyderabad,473,-113,9,4257,3240,Clothing,Hankerchief,UPI,1
+B-26040,26-02-2018,Sahil,Punjab,Chandigarh,38,9,2,76,94,Clothing,Stole,COD,1
+B-26040,26-02-2018,Sahil,Punjab,Chandigarh,113,24,4,452,548,Clothing,Hankerchief,Debit Card,1
+B-26040,26-02-2018,Sahil,Punjab,Chandigarh,833,93,3,2499,2778,Clothing,Trousers,UPI,1
+B-25671,27-05-2018,Mitali,Nagaland,Kohima,832,0,3,2496,2496,Clothing,Trousers,UPI,1
+B-26100,31-03-2018,Hitika,Madhya Pradesh,Indore,828,230,2,1656,2116,Furniture,Chairs,COD,1
+B-26100,31-03-2018,Hitika,Madhya Pradesh,Indore,34,10,2,68,88,Clothing,T-shirt,Debit Card,1
+B-26100,31-03-2018,Hitika,Madhya Pradesh,Indore,72,16,2,144,176,Clothing,Shirt,COD,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,823,-18,7,5761,5635,Furniture,Chairs,COD,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,457,-41,4,1828,1664,Clothing,Saree,COD,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,7,0,1,7,7,Clothing,Leggings,COD,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,159,4,1,159,163,Clothing,Saree,COD,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,172,-103,3,516,207,Furniture,Chairs,EMI,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,44,-8,3,132,108,Clothing,Stole,UPI,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,200,-60,4,800,560,Furniture,Bookcases,UPI,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,49,3,1,49,52,Clothing,Shirt,COD,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,16,-10,2,32,12,Clothing,T-shirt,COD,1
+B-25651,07-05-2018,Anurag,Madhya Pradesh,Indore,11,-4,2,22,14,Clothing,Skirt,COD,1
+B-25968,21-01-2018,Paromita,Punjab,Amritsar,811,154,7,5677,6755,Electronics,Accessories,UPI,1
+B-26019,15-02-2018,Jitesh,Uttar Pradesh,Lucknow,585,175,13,7605,9880,Clothing,T-shirt,COD,1
+B-25664,20-05-2018,Pratyusmita,Bihar,Patna,444,-200,4,1776,976,Electronics,Phones,EMI,1
+B-25664,20-05-2018,Pratyusmita,Bihar,Patna,83,-48,1,83,35,Furniture,Bookcases,UPI,1
+B-25664,20-05-2018,Pratyusmita,Bihar,Patna,258,-27,2,516,462,Electronics,Phones,Debit Card,1
+B-25664,20-05-2018,Pratyusmita,Bihar,Patna,785,52,2,1570,1674,Electronics,Phones,Debit Card,1
+B-26033,22-02-2018,Atharv,West Bengal,Kolkata,774,170,3,2322,2832,Electronics,Accessories,COD,1
+B-26033,22-02-2018,Atharv,West Bengal,Kolkata,143,32,1,143,175,Furniture,Bookcases,COD,1
+B-26033,22-02-2018,Atharv,West Bengal,Kolkata,111,35,5,555,730,Clothing,Shirt,COD,1
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,774,170,3,2322,2832,Electronics,Accessories,COD,1
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,78,-28,6,468,300,Clothing,Kurti,UPI,1
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,145,0,3,435,435,Clothing,Saree,UPI,1
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,101,16,4,404,468,Clothing,T-shirt,COD,1
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,148,23,4,592,684,Clothing,Kurti,EMI,1
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,25,7,2,50,64,Clothing,Stole,COD,1
+B-26052,08-03-2018,Ajay,Karnataka,Bangalore,15,1,1,15,16,Clothing,Shirt,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,223,62,7,1561,1995,Clothing,Shirt,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,215,-30,2,430,370,Clothing,Saree,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,93,-65,4,372,112,Clothing,Stole,UPI,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,109,40,1,109,149,Furniture,Furnishings,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,152,-3,5,760,745,Clothing,Saree,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,26,-17,1,26,9,Clothing,Stole,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,51,-49,2,102,4,Electronics,Electronic Games,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,129,11,2,258,280,Electronics,Phones,UPI,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,222,74,5,1110,1480,Clothing,Hankerchief,COD,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,352,74,8,2816,3408,Clothing,Stole,Debit Card,1
+B-25999,05-02-2018,Diwakar,Delhi,Delhi,770,323,3,2310,3279,Electronics,Accessories,COD,1
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,45,-28,2,90,34,Clothing,Stole,Debit Card,1
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,25,-1,4,100,96,Clothing,Kurti,COD,1
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,60,-49,8,480,88,Clothing,Hankerchief,COD,1
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,30,-25,2,60,10,Clothing,T-shirt,COD,1
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,584,-444,7,4088,980,Electronics,Printers,UPI,1
+B-25781,14-09-2018,Rutuja,Gujarat,Ahmedabad,767,-353,5,3835,2070,Clothing,Trousers,COD,1
+B-25764,28-08-2018,Sanjova,Maharashtra,Pune,26,0,2,52,52,Clothing,Kurti,COD,1
+B-25764,28-08-2018,Sanjova,Maharashtra,Pune,349,-24,2,698,650,Clothing,Saree,Debit Card,1
+B-25764,28-08-2018,Sanjova,Maharashtra,Pune,765,-153,2,1530,1224,Electronics,Phones,Debit Card,1
+B-25764,28-08-2018,Sanjova,Maharashtra,Pune,119,43,5,595,810,Clothing,T-shirt,COD,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,765,8,6,4590,4638,Clothing,Saree,EMI,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,757,371,2,1514,2256,Electronics,Printers,Credit Card,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,536,91,1,536,627,Clothing,Trousers,COD,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,269,91,1,269,360,Electronics,Electronic Games,COD,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,137,5,5,685,710,Clothing,Shirt,COD,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,185,48,4,740,932,Clothing,Stole,Credit Card,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,106,12,3,318,354,Clothing,Trousers,Credit Card,1
+B-25803,05-10-2018,Shivanshu,Madhya Pradesh,Indore,511,194,3,1533,2115,Furniture,Chairs,UPI,1
+B-25945,11-01-2018,Mhatre,Madhya Pradesh,Indore,765,-36,3,2295,2187,Electronics,Electronic Games,COD,1
+B-25945,11-01-2018,Mhatre,Madhya Pradesh,Indore,63,14,2,126,154,Clothing,Shirt,COD,1
+B-25945,11-01-2018,Mhatre,Madhya Pradesh,Indore,60,3,3,180,189,Clothing,Saree,UPI,1
+B-25945,11-01-2018,Mhatre,Madhya Pradesh,Indore,245,10,2,490,510,Furniture,Bookcases,COD,1
+B-26086,26-03-2018,Mukesh,Haryana,Chandigarh,762,101,6,4572,5178,Electronics,Printers,COD,1
+B-26086,26-03-2018,Mukesh,Haryana,Chandigarh,25,2,2,50,54,Clothing,Hankerchief,Debit Card,1
+B-26086,26-03-2018,Mukesh,Haryana,Chandigarh,43,17,2,86,120,Clothing,T-shirt,UPI,1
+B-25845,03-11-2018,Snel,Kerala ,Thiruvananthapuram,82,-33,4,328,196,Clothing,Kurti,COD,1
+B-25845,03-11-2018,Snel,Kerala ,Thiruvananthapuram,757,371,2,1514,2256,Electronics,Printers,Credit Card,1
+B-25845,03-11-2018,Snel,Kerala ,Thiruvananthapuram,274,-7,4,1096,1068,Electronics,Phones,COD,1
+B-25845,03-11-2018,Snel,Kerala ,Thiruvananthapuram,132,54,5,660,930,Clothing,Stole,COD,1
+B-25817,13-10-2018,Praneet,Maharashtra,Mumbai,743,89,5,3715,4160,Electronics,Printers,UPI,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,742,198,2,1484,1880,Furniture,Bookcases,Credit Card,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,250,100,3,750,1050,Clothing,Trousers,COD,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,89,29,2,178,236,Clothing,Stole,UPI,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,120,23,5,600,715,Clothing,Stole,COD,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,111,11,9,999,1098,Clothing,Hankerchief,Credit Card,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,102,13,2,204,230,Clothing,Stole,Credit Card,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,248,105,2,496,706,Electronics,Phones,Debit Card,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,50,14,1,50,64,Electronics,Electronic Games,COD,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,40,18,1,40,58,Electronics,Accessories,Credit Card,1
+B-25951,13-01-2018,Jesal,West Bengal,Kolkata,30,5,2,60,70,Clothing,Kurti,UPI,1
+B-25970,22-01-2018,Rhea,Maharashtra,Mumbai,742,198,2,1484,1880,Furniture,Bookcases,COD,1
+B-25970,22-01-2018,Rhea,Maharashtra,Mumbai,365,107,3,1095,1416,Electronics,Phones,COD,1
+B-25970,22-01-2018,Rhea,Maharashtra,Mumbai,111,9,4,444,480,Clothing,Stole,COD,1
+B-25970,22-01-2018,Rhea,Maharashtra,Mumbai,203,84,2,406,574,Electronics,Printers,UPI,1
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,741,267,5,3705,5040,Furniture,Bookcases,COD,1
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,719,303,6,4314,6132,Furniture,Chairs,COD,1
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,165,46,3,495,633,Furniture,Furnishings,COD,1
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,46,0,4,184,184,Clothing,Leggings,COD,1
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,140,15,5,700,775,Clothing,Stole,UPI,1
+B-25878,24-11-2018,Mrinal,Maharashtra,Mumbai,84,41,3,252,375,Clothing,T-shirt,Credit Card,1
+B-26057,10-03-2018,Sharda,Kerala ,Thiruvananthapuram,659,-37,2,1318,1244,Furniture,Bookcases,Credit Card,1
+B-26057,10-03-2018,Sharda,Kerala ,Thiruvananthapuram,54,8,4,216,248,Clothing,T-shirt,Debit Card,1
+B-26057,10-03-2018,Sharda,Kerala ,Thiruvananthapuram,224,87,3,672,933,Clothing,Trousers,COD,1
+B-26057,10-03-2018,Sharda,Kerala ,Thiruvananthapuram,736,346,5,3680,5410,Electronics,Printers,COD,1
+B-25885,28-11-2018,Shatayu,Madhya Pradesh,Indore,734,248,2,1468,1964,Furniture,Chairs,COD,1
+B-25885,28-11-2018,Shatayu,Madhya Pradesh,Indore,349,0,7,2443,2443,Clothing,Stole,Credit Card,1
+B-25885,28-11-2018,Shatayu,Madhya Pradesh,Indore,94,27,2,188,242,Clothing,Shirt,Credit Card,1
+B-25885,28-11-2018,Shatayu,Madhya Pradesh,Indore,394,146,2,788,1080,Furniture,Bookcases,UPI,1
+B-25897,06-12-2018,Rohan,Madhya Pradesh,Indore,734,213,6,4404,5682,Electronics,Electronic Games,Credit Card,1
+B-25897,06-12-2018,Rohan,Madhya Pradesh,Indore,24,11,5,120,175,Clothing,Hankerchief,Debit Card,1
+B-25897,06-12-2018,Rohan,Madhya Pradesh,Indore,43,5,3,129,144,Clothing,Stole,COD,1
+B-25897,06-12-2018,Rohan,Madhya Pradesh,Indore,33,10,3,99,129,Clothing,Hankerchief,COD,1
+B-25756,20-08-2018,Mohan,Maharashtra,Mumbai,729,-492,5,3645,1185,Furniture,Bookcases,UPI,1
+B-25756,20-08-2018,Mohan,Maharashtra,Mumbai,465,-33,4,1860,1728,Electronics,Phones,EMI,1
+B-25756,20-08-2018,Mohan,Maharashtra,Mumbai,204,276,3,612,1440,Furniture,Bookcases,COD,1
+B-25756,20-08-2018,Mohan,Maharashtra,Mumbai,29,-24,4,116,20,Clothing,Leggings,COD,1
+B-25756,20-08-2018,Mohan,Maharashtra,Mumbai,643,-45,2,1286,1196,Electronics,Printers,Debit Card,1
+B-25859,14-11-2018,Chikku,Madhya Pradesh,Indore,724,253,2,1448,1954,Furniture,Bookcases,UPI,1
+B-25691,16-06-2018,Akancha,Maharashtra,Mumbai,714,56,4,2856,3080,Clothing,Saree,COD,1
+B-25691,16-06-2018,Akancha,Maharashtra,Mumbai,75,-25,3,225,150,Clothing,Stole,UPI,1
+B-25691,16-06-2018,Akancha,Maharashtra,Mumbai,17,-9,3,51,24,Clothing,Stole,COD,1
+B-25633,26-04-2018,Amit,Sikkim,Gangtok,496,-79,2,992,834,Clothing,Trousers,COD,1
+B-25633,26-04-2018,Amit,Sikkim,Gangtok,711,-8,4,2844,2812,Clothing,Saree,Debit Card,1
+B-25633,26-04-2018,Amit,Sikkim,Gangtok,249,-130,4,996,476,Electronics,Phones,UPI,1
+B-25708,01-07-2018,Kishwar,Madhya Pradesh,Indore,709,-100,5,3545,3045,Electronics,Phones,COD,1
+B-25708,01-07-2018,Kishwar,Madhya Pradesh,Indore,191,13,8,1528,1632,Furniture,Furnishings,COD,1
+B-25708,01-07-2018,Kishwar,Madhya Pradesh,Indore,32,-8,2,64,48,Clothing,Stole,COD,1
+B-25708,01-07-2018,Kishwar,Madhya Pradesh,Indore,81,-51,7,567,210,Clothing,Stole,EMI,1
+B-25831,27-10-2018,Mahima,Sikkim,Gangtok,693,254,6,4158,5682,Clothing,Saree,COD,1
+B-25856,10-11-2018,Abhijeet,Maharashtra,Mumbai,257,3,2,514,520,Clothing,Saree,COD,1
+B-25856,10-11-2018,Abhijeet,Maharashtra,Mumbai,10,2,2,20,24,Clothing,Skirt,COD,1
+B-25856,10-11-2018,Abhijeet,Maharashtra,Mumbai,48,6,1,48,54,Clothing,Saree,COD,1
+B-25856,10-11-2018,Abhijeet,Maharashtra,Mumbai,74,29,3,222,309,Clothing,Stole,EMI,1
+B-25856,10-11-2018,Abhijeet,Maharashtra,Mumbai,689,90,5,3445,3895,Clothing,Saree,COD,1
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,61,11,3,183,216,Clothing,Kurti,COD,1
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,355,-114,7,2485,1687,Clothing,Stole,Credit Card,1
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,83,12,3,249,285,Clothing,Stole,UPI,1
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,149,15,3,447,492,Clothing,Saree,EMI,1
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,372,59,3,1116,1293,Electronics,Printers,UPI,1
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,223,62,7,1561,1995,Clothing,Shirt,COD,1
+B-25893,04-12-2018,Vrinda,Uttar Pradesh,Mathura,688,-103,6,4128,3510,Electronics,Accessories,Debit Card,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,681,259,4,2724,3760,Furniture,Chairs,COD,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,23,8,2,46,62,Clothing,Hankerchief,Debit Card,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,32,2,2,64,68,Clothing,Kurti,UPI,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,132,49,3,396,543,Clothing,Shirt,COD,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,252,56,2,504,616,Electronics,Phones,UPI,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,82,24,6,492,636,Clothing,Hankerchief,EMI,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,429,17,3,1287,1338,Furniture,Chairs,UPI,1
+B-25959,18-01-2018,Muskan,Madhya Pradesh,Indore,637,212,8,5096,6792,Electronics,Phones,Debit Card,1
+B-26000,06-02-2018,Shubham,Delhi,Delhi,676,151,3,2028,2481,Electronics,Printers,Credit Card,1
+B-26000,06-02-2018,Shubham,Delhi,Delhi,43,-10,4,172,132,Clothing,Skirt,COD,1
+B-26000,06-02-2018,Shubham,Delhi,Delhi,597,93,4,2388,2760,Furniture,Chairs,Debit Card,1
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,663,-212,5,3315,2255,Electronics,Printers,UPI,1
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,671,-309,5,3355,1810,Electronics,Electronic Games,COD,1
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,185,-26,6,1110,954,Furniture,Chairs,COD,1
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,97,12,2,194,218,Clothing,Hankerchief,UPI,1
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,39,-18,2,78,42,Clothing,Leggings,Credit Card,1
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,19,8,2,38,54,Clothing,Hankerchief,Credit Card,1
+B-26097,28-03-2018,Vini,Karnataka,Bangalore,14,5,1,14,19,Clothing,Hankerchief,UPI,1
+B-25745,09-08-2018,Kartik,Gujarat,Ahmedabad,296,225,11,3256,5731,Clothing,Saree,COD,1
+B-25745,09-08-2018,Kartik,Gujarat,Ahmedabad,132,-79,5,660,265,Furniture,Furnishings,COD,1
+B-25745,09-08-2018,Kartik,Gujarat,Ahmedabad,44,-8,3,132,108,Clothing,Stole,Credit Card,1
+B-25745,09-08-2018,Kartik,Gujarat,Ahmedabad,670,15,5,3350,3425,Furniture,Bookcases,Debit Card,1
+B-25974,25-01-2018,Manisha,Rajasthan,Udaipur,662,240,2,1324,1804,Furniture,Bookcases,COD,1
+B-25670,25-05-2018,Charika,Goa,Goa,24,1,2,48,50,Clothing,Hankerchief,UPI,1
+B-25670,25-05-2018,Charika,Goa,Goa,656,-36,2,1312,1240,Furniture,Bookcases,Credit Card,1
+B-25670,25-05-2018,Charika,Goa,Goa,74,29,3,222,309,Clothing,Stole,COD,1
+B-25670,25-05-2018,Charika,Goa,Goa,14,2,1,14,16,Clothing,Hankerchief,COD,1
+B-25848,03-11-2018,Rohan,Himachal Pradesh,Simla,648,50,6,3888,4188,Electronics,Electronic Games,Credit Card,1
+B-25848,03-11-2018,Rohan,Himachal Pradesh,Simla,147,21,3,441,504,Furniture,Furnishings,Debit Card,1
+B-25848,03-11-2018,Rohan,Himachal Pradesh,Simla,16,8,2,32,48,Clothing,Hankerchief,COD,1
+B-25888,02-12-2018,Rohan,Punjab,Amritsar,646,-213,3,1938,1299,Electronics,Electronic Games,COD,1
+B-25888,02-12-2018,Rohan,Punjab,Amritsar,223,4,3,669,681,Electronics,Phones,COD,1
+B-25888,02-12-2018,Rohan,Punjab,Amritsar,18,2,3,54,60,Clothing,Hankerchief,Credit Card,1
+B-25942,08-01-2018,Ankur,Andhra Pradesh,Hyderabad,646,-23,2,1292,1246,Electronics,Printers,Credit Card,1
+B-25847,03-11-2018,Aniket,Haryana,Chandigarh,643,225,2,1286,1736,Electronics,Printers,COD,1
+B-25847,03-11-2018,Aniket,Haryana,Chandigarh,264,71,10,2640,3350,Furniture,Furnishings,Debit Card,1
+B-25636,26-04-2018,Nishi,Maharashtra,Mumbai,637,113,5,3185,3750,Clothing,Saree,UPI,1
+B-25826,22-10-2018,Tanushree,Maharashtra,Mumbai,637,261,2,1274,1796,Electronics,Printers,COD,1
+B-26081,22-03-2018,Aarushi,Tamil Nadu,Chennai,24,11,3,72,105,Clothing,Hankerchief,Debit Card,1
+B-26081,22-03-2018,Aarushi,Tamil Nadu,Chennai,169,0,3,507,507,Electronics,Accessories,COD,1
+B-26081,22-03-2018,Aarushi,Tamil Nadu,Chennai,359,-338,5,1795,105,Furniture,Bookcases,COD,1
+B-26081,22-03-2018,Aarushi,Tamil Nadu,Chennai,93,-84,3,279,27,Clothing,Saree,UPI,1
+B-26081,22-03-2018,Aarushi,Tamil Nadu,Chennai,79,33,4,316,448,Clothing,Stole,UPI,1
+B-26081,22-03-2018,Aarushi,Tamil Nadu,Chennai,637,50,5,3185,3435,Clothing,Saree,COD,1
+B-25625,23-04-2018,Pinky,Jammu and Kashmir,Kashmir,59,-30,3,177,87,Clothing,Leggings,Debit Card,1
+B-25625,23-04-2018,Pinky,Jammu and Kashmir,Kashmir,97,29,2,194,252,Clothing,Hankerchief,UPI,1
+B-25625,23-04-2018,Pinky,Jammu and Kashmir,Kashmir,635,-349,5,3175,1430,Clothing,Saree,Debit Card,1
+B-25802,05-10-2018,Yash,Maharashtra,Mumbai,25,-7,5,125,90,Clothing,Saree,UPI,1
+B-25802,05-10-2018,Yash,Maharashtra,Mumbai,95,5,2,190,200,Clothing,Stole,COD,1
+B-25802,05-10-2018,Yash,Maharashtra,Mumbai,633,-633,11,6963,0,Electronics,Accessories,UPI,1
+B-25802,05-10-2018,Yash,Maharashtra,Mumbai,23,-3,1,23,20,Clothing,Shirt,COD,1
+B-25802,05-10-2018,Yash,Maharashtra,Mumbai,13,-9,2,26,8,Clothing,Skirt,COD,1
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,76,-72,9,684,36,Clothing,Hankerchief,COD,1
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,632,316,6,3792,5688,Clothing,Saree,COD,1
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,32,-16,6,192,96,Clothing,Saree,UPI,1
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,68,-30,1,68,38,Electronics,Phones,UPI,1
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,72,-49,1,72,23,Electronics,Phones,COD,1
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,82,-39,5,410,215,Clothing,T-shirt,EMI,1
+B-25693,18-06-2018,Parna,Madhya Pradesh,Bhopal,13,-13,2,26,0,Clothing,Skirt,COD,1
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,632,-316,6,3792,1896,Clothing,Saree,COD,1
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,239,-162,5,1195,385,Furniture,Chairs,COD,1
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,148,0,3,444,444,Clothing,Saree,COD,1
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,37,-6,1,37,31,Clothing,Saree,UPI,1
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,78,-64,7,546,98,Clothing,Stole,EMI,1
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,559,-19,2,1118,1080,Clothing,Trousers,Debit Card,1
+B-25796,24-09-2018,Sukrith,Maharashtra,Mumbai,28,1,1,28,29,Electronics,Accessories,UPI,1
+B-25806,06-10-2018,Dhanraj,Madhya Pradesh,Indore,632,-114,4,2528,2072,Furniture,Tables,UPI,1
+B-25710,05-07-2018,Megha,Maharashtra,Pune,10,-1,1,10,9,Clothing,Leggings,UPI,1
+B-25710,05-07-2018,Megha,Maharashtra,Pune,216,-38,6,1296,1068,Furniture,Furnishings,UPI,1
+B-25710,05-07-2018,Megha,Maharashtra,Pune,25,0,4,100,100,Clothing,Skirt,UPI,1
+B-25710,05-07-2018,Megha,Maharashtra,Pune,53,-18,4,212,140,Clothing,T-shirt,UPI,1
+B-25710,05-07-2018,Megha,Maharashtra,Pune,616,-69,7,4312,3829,Furniture,Furnishings,Debit Card,1
+B-25710,05-07-2018,Megha,Maharashtra,Pune,13,-8,1,13,5,Clothing,T-shirt,COD,1
+B-25669,25-05-2018,Piyali,Sikkim,Gangtok,610,-66,2,1220,1088,Furniture,Tables,COD,1
+B-25857,10-11-2018,Anand,Madhya Pradesh,Indore,324,39,8,2592,2904,Electronics,Accessories,Credit Card,1
+B-25857,10-11-2018,Anand,Madhya Pradesh,Indore,227,59,2,454,572,Furniture,Furnishings,UPI,1
+B-25857,10-11-2018,Anand,Madhya Pradesh,Indore,598,166,4,2392,3056,Furniture,Bookcases,UPI,1
+B-25785,15-09-2018,Ayush,West Bengal,Kolkata,595,292,3,1785,2661,Clothing,Saree,COD,1
+B-25785,15-09-2018,Ayush,West Bengal,Kolkata,192,-146,3,576,138,Clothing,Saree,COD,1
+B-25785,15-09-2018,Ayush,West Bengal,Kolkata,268,-25,3,804,729,Clothing,Saree,COD,1
+B-25785,15-09-2018,Ayush,West Bengal,Kolkata,45,0,2,90,90,Clothing,T-shirt,COD,1
+B-25930,03-01-2018,Monica,Punjab,Chandigarh,595,119,4,2380,2856,Furniture,Bookcases,COD,1
+B-25930,03-01-2018,Monica,Punjab,Chandigarh,151,29,5,755,900,Clothing,Hankerchief,EMI,1
+B-25930,03-01-2018,Monica,Punjab,Chandigarh,202,89,9,1818,2619,Clothing,T-shirt,EMI,1
+B-25930,03-01-2018,Monica,Punjab,Chandigarh,58,17,2,116,150,Clothing,Hankerchief,COD,1
+B-25930,03-01-2018,Monica,Punjab,Chandigarh,40,13,3,120,159,Clothing,T-shirt,COD,1
+B-25930,03-01-2018,Monica,Punjab,Chandigarh,351,-94,5,1755,1285,Electronics,Electronic Games,COD,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,594,89,3,1782,2049,Furniture,Bookcases,COD,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,85,2,6,510,522,Clothing,Stole,COD,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,246,61,2,492,614,Furniture,Bookcases,COD,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,27,6,3,81,99,Clothing,Skirt,COD,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,162,55,3,486,651,Clothing,Stole,COD,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,120,1,1,120,121,Furniture,Chairs,COD,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,93,31,3,279,372,Electronics,Accessories,UPI,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,425,208,7,2975,4431,Clothing,Saree,Debit Card,1
+B-26053,09-03-2018,Kirti,Jammu and Kashmir,Kashmir,17,1,2,34,36,Clothing,Skirt,Credit Card,1
+B-26070,18-03-2018,Shruti,Karnataka,Bangalore,582,262,5,2910,4220,Furniture,Furnishings,COD,1
+B-26070,18-03-2018,Shruti,Karnataka,Bangalore,75,29,1,75,104,Clothing,Trousers,UPI,1
+B-26070,18-03-2018,Shruti,Karnataka,Bangalore,54,12,4,216,264,Clothing,Shirt,COD,1
+B-26070,18-03-2018,Shruti,Karnataka,Bangalore,14,7,2,28,42,Clothing,Hankerchief,UPI,1
+B-25791,24-09-2018,Avish,Kerala ,Thiruvananthapuram,565,66,7,3955,4417,Clothing,Saree,Credit Card,1
+B-25791,24-09-2018,Avish,Kerala ,Thiruvananthapuram,253,-63,2,506,380,Clothing,Saree,UPI,1
+B-25791,24-09-2018,Avish,Kerala ,Thiruvananthapuram,175,77,3,525,756,Clothing,Saree,COD,1
+B-25983,30-01-2018,Atul,Delhi,Delhi,561,118,5,2805,3395,Furniture,Bookcases,Credit Card,1
+B-25983,30-01-2018,Atul,Delhi,Delhi,230,5,2,460,470,Clothing,Saree,UPI,1
+B-25983,30-01-2018,Atul,Delhi,Delhi,50,-4,6,300,276,Clothing,T-shirt,EMI,1
+B-25983,30-01-2018,Atul,Delhi,Delhi,32,-12,1,32,20,Furniture,Chairs,Credit Card,1
+B-25979,27-01-2018,Shivangi,Madhya Pradesh,Indore,284,45,2,568,658,Furniture,Bookcases,EMI,1
+B-25979,27-01-2018,Shivangi,Madhya Pradesh,Indore,82,-27,3,246,165,Clothing,Kurti,EMI,1
+B-25979,27-01-2018,Shivangi,Madhya Pradesh,Indore,57,27,2,114,168,Clothing,Shirt,UPI,1
+B-25979,27-01-2018,Shivangi,Madhya Pradesh,Indore,560,44,3,1680,1812,Clothing,Saree,Debit Card,1
+B-25979,27-01-2018,Shivangi,Madhya Pradesh,Indore,12,1,2,24,26,Clothing,Hankerchief,COD,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,246,98,5,1230,1720,Clothing,Hankerchief,COD,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,156,23,3,468,537,Clothing,Stole,COD,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,88,19,2,176,214,Clothing,Shirt,Debit Card,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,139,21,3,417,480,Electronics,Accessories,COD,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,88,20,2,176,216,Clothing,Saree,COD,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,138,11,5,690,745,Clothing,Stole,UPI,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,139,36,3,417,525,Clothing,Stole,COD,1
+B-26054,10-03-2018,Mayank,Maharashtra,Mumbai,559,-174,2,1118,770,Electronics,Electronic Games,Debit Card,1
+B-26078,22-03-2018,Kasheen,West Bengal,Kolkata,557,-111,2,1114,892,Electronics,Electronic Games,COD,1
+B-26078,22-03-2018,Kasheen,West Bengal,Kolkata,44,20,2,88,128,Clothing,T-shirt,UPI,1
+B-26078,22-03-2018,Kasheen,West Bengal,Kolkata,137,63,3,411,600,Clothing,Stole,COD,1
+B-26078,22-03-2018,Kasheen,West Bengal,Kolkata,17,8,2,34,50,Clothing,Skirt,COD,1
+B-25787,20-09-2018,Asish,Jammu and Kashmir,Kashmir,556,-209,7,3892,2429,Clothing,Saree,COD,1
+B-25787,20-09-2018,Asish,Jammu and Kashmir,Kashmir,40,-12,3,120,84,Clothing,Shirt,COD,1
+B-25787,20-09-2018,Asish,Jammu and Kashmir,Kashmir,140,-58,4,560,328,Furniture,Furnishings,COD,1
+B-25787,20-09-2018,Asish,Jammu and Kashmir,Kashmir,229,-41,8,1832,1504,Electronics,Accessories,COD,1
+B-25682,07-06-2018,Krutika,Bihar,Patna,545,-73,11,5995,5192,Electronics,Phones,COD,1
+B-25962,19-01-2018,Tejeswini,Maharashtra,Pune,544,-152,3,1632,1176,Furniture,Bookcases,COD,1
+B-25962,19-01-2018,Tejeswini,Maharashtra,Pune,312,62,1,312,374,Electronics,Electronic Games,COD,1
+B-25962,19-01-2018,Tejeswini,Maharashtra,Pune,260,68,2,520,656,Electronics,Printers,COD,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,19,-1,1,19,18,Clothing,Shirt,Debit Card,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,208,-25,2,416,366,Clothing,Saree,COD,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,212,-24,2,424,376,Furniture,Chairs,COD,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,199,-18,2,398,362,Clothing,Saree,COD,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,78,-6,2,156,144,Furniture,Furnishings,UPI,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,73,-31,1,73,42,Furniture,Bookcases,COD,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,42,-15,12,504,324,Clothing,Skirt,UPI,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,22,-12,3,66,30,Clothing,Stole,COD,1
+B-25750,14-08-2018,Priyanshu,Madhya Pradesh,Indore,539,-146,7,3773,2751,Furniture,Furnishings,Debit Card,1
+B-25828,24-10-2018,Nikita,Punjab,Chandigarh,537,107,3,1611,1932,Clothing,Saree,COD,1
+B-25828,24-10-2018,Nikita,Punjab,Chandigarh,222,35,5,1110,1285,Clothing,Saree,Credit Card,1
+B-25828,24-10-2018,Nikita,Punjab,Chandigarh,128,-3,3,384,375,Clothing,Saree,Debit Card,1
+B-25828,24-10-2018,Nikita,Punjab,Chandigarh,15,2,1,15,17,Clothing,Leggings,COD,1
+B-25622,22-04-2018,Monisha,Rajasthan,Jaipur,534,0,3,1602,1602,Clothing,Saree,Debit Card,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,32,7,3,96,117,Clothing,Hankerchief,COD,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,221,-15,2,442,412,Electronics,Electronic Games,COD,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,10,-8,1,10,2,Clothing,Kurti,UPI,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,106,0,2,212,212,Electronics,Phones,EMI,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,65,-4,6,390,366,Clothing,Hankerchief,COD,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,43,-5,2,86,76,Clothing,Saree,COD,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,43,21,3,129,192,Clothing,Shirt,COD,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,534,5,2,1068,1078,Electronics,Electronic Games,Debit Card,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,68,-56,2,136,24,Electronics,Phones,COD,1
+B-25751,14-08-2018,Nishant,Maharashtra,Mumbai,14,-3,2,28,22,Clothing,Leggings,COD,1
+B-25685,10-06-2018,Sheetal,Madhya Pradesh,Indore,264,-30,3,792,702,Furniture,Furnishings,Debit Card,1
+B-25685,10-06-2018,Sheetal,Madhya Pradesh,Indore,45,-2,4,180,172,Clothing,Shirt,COD,1
+B-25685,10-06-2018,Sheetal,Madhya Pradesh,Indore,51,7,2,102,116,Furniture,Furnishings,UPI,1
+B-25685,10-06-2018,Sheetal,Madhya Pradesh,Indore,529,137,3,1587,1998,Electronics,Phones,Debit Card,1
+B-26010,11-02-2018,Kartikay,Bihar,Patna,55,3,3,165,174,Clothing,T-shirt,COD,1
+B-26010,11-02-2018,Kartikay,Bihar,Patna,176,-13,5,880,815,Furniture,Furnishings,COD,1
+B-26010,11-02-2018,Kartikay,Bihar,Patna,85,13,2,170,196,Clothing,Shirt,UPI,1
+B-26010,11-02-2018,Kartikay,Bihar,Patna,527,26,3,1581,1659,Electronics,Electronic Games,COD,1
+B-26010,11-02-2018,Kartikay,Bihar,Patna,29,3,2,58,64,Clothing,Stole,COD,1
+B-26010,11-02-2018,Kartikay,Bihar,Patna,18,2,3,54,60,Clothing,Hankerchief,COD,1
+B-26035,23-02-2018,Pinky,Jammu and Kashmir,Kashmir,520,151,3,1560,2013,Electronics,Phones,Credit Card,1
+B-26035,23-02-2018,Pinky,Jammu and Kashmir,Kashmir,291,119,11,3201,4510,Clothing,Saree,COD,1
+B-26035,23-02-2018,Pinky,Jammu and Kashmir,Kashmir,369,15,3,1107,1152,Electronics,Electronic Games,Debit Card,1
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,516,392,8,4128,7264,Furniture,Chairs,COD,1
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,65,-16,2,130,98,Electronics,Phones,Debit Card,1
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,207,153,3,621,1080,Clothing,Saree,Credit Card,1
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,87,-83,5,435,20,Clothing,Kurti,COD,1
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,27,-6,4,108,84,Clothing,Hankerchief,COD,1
+B-25698,23-06-2018,Amisha,Tamil Nadu,Chennai,7,-2,1,7,5,Clothing,Hankerchief,COD,1
+B-25966,21-01-2018,Soumya,Rajasthan,Udaipur,510,234,6,3060,4464,Electronics,Electronic Games,EMI,1
+B-25832,28-10-2018,Harshita,Maharashtra,Mumbai,504,116,3,1512,1860,Furniture,Bookcases,COD,1
+B-25743,07-08-2018,Aman,Nagaland,Kohima,503,-56,2,1006,894,Clothing,Trousers,COD,1
+B-25743,07-08-2018,Aman,Nagaland,Kohima,99,-5,1,99,94,Clothing,Saree,UPI,1
+B-25743,07-08-2018,Aman,Nagaland,Kohima,143,-124,5,715,95,Clothing,Saree,UPI,1
+B-25743,07-08-2018,Aman,Nagaland,Kohima,56,0,4,224,224,Clothing,Hankerchief,COD,1
+B-25743,07-08-2018,Aman,Nagaland,Kohima,74,-51,3,222,69,Clothing,Stole,UPI,1
+B-25886,28-11-2018,Brijesh,Rajasthan,Udaipur,502,84,4,2008,2344,Electronics,Phones,COD,1
+B-25886,28-11-2018,Brijesh,Rajasthan,Udaipur,89,17,2,178,212,Clothing,Stole,UPI,1
+B-25886,28-11-2018,Brijesh,Rajasthan,Udaipur,107,37,3,321,432,Clothing,Shirt,COD,1
+B-25886,28-11-2018,Brijesh,Rajasthan,Udaipur,63,1,4,252,256,Clothing,T-shirt,COD,1
+B-25975,25-01-2018,Priyanka,Uttar Pradesh,Prayagraj,29,2,3,87,93,Clothing,Skirt,COD,1
+B-26098,29-03-2018,Pinky,Jammu and Kashmir,Kashmir,96,-48,5,480,240,Clothing,Leggings,UPI,1
+B-26098,29-03-2018,Pinky,Jammu and Kashmir,Kashmir,409,86,3,1227,1485,Clothing,Saree,COD,1
+B-26098,29-03-2018,Pinky,Jammu and Kashmir,Kashmir,46,14,5,230,300,Clothing,Skirt,COD,1
+B-26098,29-03-2018,Pinky,Jammu and Kashmir,Kashmir,59,15,2,118,148,Clothing,T-shirt,UPI,1
+B-26098,29-03-2018,Pinky,Jammu and Kashmir,Kashmir,82,8,3,246,270,Electronics,Accessories,EMI,1
+B-26098,29-03-2018,Pinky,Jammu and Kashmir,Kashmir,497,179,3,1491,2028,Furniture,Chairs,Debit Card,1
+B-25614,13-04-2018,Vandana,Himachal Pradesh,Simla,98,-12,2,196,172,Electronics,Electronic Games,Credit Card,1
+B-25614,13-04-2018,Vandana,Himachal Pradesh,Simla,494,54,4,1976,2192,Furniture,Bookcases,COD,1
+B-25726,21-07-2018,Kiran,Maharashtra,Mumbai,490,-128,8,3920,2896,Furniture,Bookcases,UPI,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,32,6,3,96,114,Clothing,Shirt,UPI,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,487,143,4,1948,2520,Electronics,Phones,EMI,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,325,32,7,2275,2499,Clothing,T-shirt,COD,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,79,32,3,237,333,Clothing,Saree,Debit Card,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,166,27,2,332,386,Electronics,Accessories,EMI,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,169,55,4,676,896,Clothing,Saree,Debit Card,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,284,44,6,1704,1968,Clothing,Hankerchief,COD,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,38,9,2,76,94,Clothing,Stole,COD,1
+B-26050,06-03-2018,Paridhi,Rajasthan,Jaipur,382,92,2,764,948,Electronics,Printers,COD,1
+B-25609,09-04-2018,Jitesh,Uttar Pradesh,Lucknow,485,29,4,1940,2056,Electronics,Electronic Games,COD,1
+B-25609,09-04-2018,Jitesh,Uttar Pradesh,Lucknow,249,-5,4,996,976,Clothing,Saree,COD,1
+B-25741,03-08-2018,Navdeep,Madhya Pradesh,Indore,482,-6,7,3374,3332,Electronics,Electronic Games,EMI,1
+B-25956,17-01-2018,Shreya,Maharashtra,Mumbai,89,-37,4,356,208,Clothing,Shirt,COD,1
+B-25956,17-01-2018,Shreya,Maharashtra,Mumbai,59,10,2,118,138,Clothing,Hankerchief,COD,1
+B-25956,17-01-2018,Shreya,Maharashtra,Mumbai,140,28,2,280,336,Electronics,Phones,COD,1
+B-25956,17-01-2018,Shreya,Maharashtra,Mumbai,474,56,4,1896,2120,Electronics,Phones,Debit Card,1
+B-25956,17-01-2018,Shreya,Maharashtra,Mumbai,33,10,3,99,129,Clothing,Hankerchief,COD,1
+B-25689,14-06-2018,Bhaggyasree,Maharashtra,Mumbai,469,-459,3,1407,30,Electronics,Electronic Games,COD,1
+B-25689,14-06-2018,Bhaggyasree,Maharashtra,Mumbai,97,17,2,194,228,Clothing,Stole,Credit Card,1
+B-25689,14-06-2018,Bhaggyasree,Maharashtra,Mumbai,149,136,3,447,855,Clothing,Stole,UPI,1
+B-25939,05-01-2018,Vineet,Sikkim,Gangtok,136,41,3,408,531,Electronics,Accessories,UPI,1
+B-25939,05-01-2018,Vineet,Sikkim,Gangtok,61,18,2,122,158,Electronics,Accessories,COD,1
+B-25939,05-01-2018,Vineet,Sikkim,Gangtok,469,33,4,1876,2008,Electronics,Electronic Games,Debit Card,1
+B-25890,04-12-2018,Divyansha,Maharashtra,Mumbai,465,207,9,4185,6048,Clothing,Saree,COD,1
+B-25814,10-10-2018,Swapnil,Madhya Pradesh,Indore,118,35,7,826,1071,Clothing,T-shirt,EMI,1
+B-25814,10-10-2018,Swapnil,Madhya Pradesh,Indore,462,169,4,1848,2524,Clothing,Saree,COD,1
+B-25718,12-07-2018,Anjali,Maharashtra,Mumbai,371,115,1,371,486,Furniture,Bookcases,Debit Card,1
+B-25718,12-07-2018,Anjali,Maharashtra,Mumbai,460,31,3,1380,1473,Furniture,Bookcases,Debit Card,1
+B-25914,18-12-2018,Kajal,Delhi,Delhi,125,22,3,375,441,Clothing,Stole,EMI,1
+B-25914,18-12-2018,Kajal,Delhi,Delhi,460,-143,3,1380,951,Furniture,Chairs,Debit Card,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,19,8,2,38,54,Clothing,Hankerchief,Debit Card,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,25,11,3,75,108,Clothing,Leggings,Debit Card,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,455,77,8,3640,4256,Electronics,Accessories,COD,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,336,57,2,672,786,Electronics,Phones,COD,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,37,17,3,111,162,Clothing,Hankerchief,Debit Card,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,74,33,2,148,214,Clothing,Shirt,Debit Card,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,60,-10,2,120,100,Furniture,Furnishings,COD,1
+B-25903,10-12-2018,Amlan,Madhya Pradesh,Indore,204,-94,4,816,440,Clothing,Hankerchief,EMI,1
+B-26096,28-03-2018,Atharv,West Bengal,Kolkata,451,25,3,1353,1428,Electronics,Phones,EMI,1
+B-26096,28-03-2018,Atharv,West Bengal,Kolkata,264,-26,3,792,714,Clothing,Trousers,COD,1
+B-26096,28-03-2018,Atharv,West Bengal,Kolkata,45,9,3,135,162,Clothing,Leggings,UPI,1
+B-26096,28-03-2018,Atharv,West Bengal,Kolkata,88,11,3,264,297,Electronics,Accessories,COD,1
+B-26096,28-03-2018,Atharv,West Bengal,Kolkata,140,56,4,560,784,Clothing,Shirt,UPI,1
+B-26096,28-03-2018,Atharv,West Bengal,Kolkata,103,46,2,206,298,Clothing,Saree,Credit Card,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,450,-90,3,1350,1080,Electronics,Printers,COD,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,269,-86,2,538,366,Electronics,Electronic Games,EMI,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,229,-23,2,458,412,Clothing,Saree,UPI,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,122,-21,3,366,303,Furniture,Furnishings,UPI,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,105,46,2,210,302,Clothing,Stole,UPI,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,121,-17,3,363,312,Furniture,Furnishings,Credit Card,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,54,-3,3,162,153,Clothing,Saree,COD,1
+B-25654,10-05-2018,Sabah,Maharashtra,Mumbai,34,12,3,102,138,Clothing,Hankerchief,Credit Card,1
+B-26076,21-03-2018,Jahan,Madhya Pradesh,Bhopal,219,4,2,438,446,Clothing,Saree,COD,1
+B-26076,21-03-2018,Jahan,Madhya Pradesh,Bhopal,91,22,2,182,226,Clothing,Stole,UPI,1
+B-26076,21-03-2018,Jahan,Madhya Pradesh,Bhopal,133,46,5,665,895,Clothing,Shirt,EMI,1
+B-26076,21-03-2018,Jahan,Madhya Pradesh,Bhopal,60,13,2,120,146,Clothing,T-shirt,COD,1
+B-26076,21-03-2018,Jahan,Madhya Pradesh,Bhopal,450,-190,4,1800,1040,Furniture,Bookcases,COD,1
+B-25961,18-01-2018,Surbhi,Gujarat,Ahmedabad,446,53,3,1338,1497,Electronics,Printers,COD,1
+B-25961,18-01-2018,Surbhi,Gujarat,Ahmedabad,366,84,3,1098,1350,Furniture,Bookcases,COD,1
+B-25961,18-01-2018,Surbhi,Gujarat,Ahmedabad,48,16,3,144,192,Clothing,Shirt,COD,1
+B-25961,18-01-2018,Surbhi,Gujarat,Ahmedabad,34,-10,3,102,72,Clothing,Skirt,COD,1
+B-25961,18-01-2018,Surbhi,Gujarat,Ahmedabad,34,-12,5,170,110,Clothing,Leggings,COD,1
+B-25961,18-01-2018,Surbhi,Gujarat,Ahmedabad,26,3,3,78,87,Clothing,Skirt,UPI,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,381,144,2,762,1050,Clothing,Saree,COD,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,53,-2,3,159,153,Clothing,Saree,Debit Card,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,149,48,6,894,1182,Clothing,Stole,COD,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,76,19,3,228,285,Clothing,Hankerchief,COD,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,88,16,4,352,416,Clothing,Stole,Credit Card,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,342,-154,7,2394,1316,Furniture,Furnishings,Debit Card,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,40,16,3,120,168,Clothing,Hankerchief,COD,1
+B-25854,08-11-2018,Shubham,Maharashtra,Pune,436,131,9,3924,5103,Clothing,Hankerchief,UPI,1
+B-25642,28-04-2018,Ajay,Karnataka,Bangalore,434,26,11,4774,5060,Clothing,Shirt,Credit Card,1
+B-25683,08-06-2018,Shreya,Kerala ,Thiruvananthapuram,86,-55,6,516,186,Clothing,Saree,COD,1
+B-25683,08-06-2018,Shreya,Kerala ,Thiruvananthapuram,155,56,3,465,633,Furniture,Furnishings,EMI,1
+B-25683,08-06-2018,Shreya,Kerala ,Thiruvananthapuram,245,-3,4,980,968,Electronics,Phones,UPI,1
+B-25683,08-06-2018,Shreya,Kerala ,Thiruvananthapuram,433,26,3,1299,1377,Electronics,Printers,Debit Card,1
+B-25683,08-06-2018,Shreya,Kerala ,Thiruvananthapuram,148,52,5,740,1000,Clothing,Stole,UPI,1
+B-26016,14-02-2018,Hazel,Karnataka,Bangalore,202,4,4,808,824,Clothing,Hankerchief,COD,1
+B-26016,14-02-2018,Hazel,Karnataka,Bangalore,429,61,3,1287,1470,Electronics,Electronic Games,Credit Card,1
+B-26016,14-02-2018,Hazel,Karnataka,Bangalore,134,-13,3,402,363,Electronics,Electronic Games,UPI,1
+B-26016,14-02-2018,Hazel,Karnataka,Bangalore,74,9,3,222,249,Clothing,Shirt,UPI,1
+B-26034,23-02-2018,Vini,Karnataka,Bangalore,425,183,5,2125,3040,Electronics,Accessories,UPI,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,424,161,2,848,1170,Clothing,Saree,COD,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,15,6,2,30,42,Clothing,Hankerchief,COD,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,101,11,2,202,224,Clothing,Hankerchief,UPI,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,47,20,7,329,469,Clothing,Hankerchief,UPI,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,70,24,3,210,282,Clothing,Stole,UPI,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,206,18,4,824,896,Clothing,Hankerchief,Debit Card,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,213,-145,3,639,204,Furniture,Bookcases,Debit Card,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,220,40,2,440,520,Electronics,Accessories,COD,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,391,90,6,2346,2886,Electronics,Phones,Debit Card,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,33,9,2,66,84,Clothing,Hankerchief,COD,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,31,9,2,62,80,Clothing,Hankerchief,COD,1
+B-26056,10-03-2018,Sonal,Bihar,Patna,19,-18,4,76,4,Clothing,Kurti,COD,1
+B-25819,15-10-2018,Ankur,Madhya Pradesh,Bhopal,417,49,3,1251,1398,Electronics,Electronic Games,COD,1
+B-25715,10-07-2018,Srishti,Jammu and Kashmir,Kashmir,416,137,3,1248,1659,Electronics,Phones,Debit Card,1
+B-25933,04-01-2018,Shikhar,Maharashtra,Mumbai,412,412,6,2472,4944,Clothing,Saree,COD,1
+B-25933,04-01-2018,Shikhar,Maharashtra,Mumbai,207,-100,2,414,214,Clothing,Saree,UPI,1
+B-25933,04-01-2018,Shikhar,Maharashtra,Mumbai,81,-44,3,243,111,Clothing,Stole,COD,1
+B-26014,13-02-2018,Divsha,Rajasthan,Jaipur,406,97,7,2842,3521,Furniture,Chairs,Credit Card,1
+B-26014,13-02-2018,Divsha,Rajasthan,Jaipur,278,39,5,1390,1585,Furniture,Chairs,Debit Card,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,6,-3,1,6,3,Clothing,Hankerchief,UPI,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,312,-312,7,2184,0,Furniture,Chairs,COD,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,44,-26,3,132,54,Clothing,Hankerchief,Debit Card,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,396,-31,9,3564,3285,Clothing,Saree,COD,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,110,-68,4,440,168,Clothing,Saree,EMI,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,97,-62,2,194,70,Clothing,Trousers,COD,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,9,-6,2,18,6,Clothing,Skirt,Credit Card,1
+B-25655,11-05-2018,Nida,Madhya Pradesh,Indore,7,-4,3,21,9,Clothing,Hankerchief,COD,1
+B-25816,12-10-2018,Mane,Andhra Pradesh,Hyderabad,391,113,8,3128,4032,Clothing,Stole,COD,1
+B-25634,26-04-2018,Sanjay,Goa,Goa,389,-83,3,1167,918,Furniture,Chairs,UPI,1
+B-25895,04-12-2018,Sathya,Gujarat,Surat,388,93,2,776,962,Furniture,Bookcases,COD,1
+B-25687,11-06-2018,Sanjna,Maharashtra,Mumbai,387,-213,5,1935,870,Clothing,Saree,UPI,1
+B-25687,11-06-2018,Sanjna,Maharashtra,Mumbai,17,6,1,17,23,Clothing,Stole,UPI,1
+B-25687,11-06-2018,Sanjna,Maharashtra,Mumbai,357,139,2,714,992,Clothing,Saree,Debit Card,1
+B-25687,11-06-2018,Sanjna,Maharashtra,Mumbai,51,21,3,153,216,Clothing,T-shirt,COD,1
+B-25687,11-06-2018,Sanjna,Maharashtra,Mumbai,14,-1,4,56,52,Clothing,Kurti,COD,1
+B-25662,17-05-2018,Sweta,Maharashtra,Mumbai,24,-2,2,48,44,Clothing,T-shirt,COD,1
+B-25662,17-05-2018,Sweta,Maharashtra,Mumbai,385,-77,11,4235,3388,Furniture,Furnishings,UPI,1
+B-25662,17-05-2018,Sweta,Maharashtra,Mumbai,86,-21,1,86,65,Electronics,Electronic Games,UPI,1
+B-25635,26-04-2018,Nidhi,Nagaland,Kohima,40,16,3,120,168,Clothing,Hankerchief,Debit Card,1
+B-25635,26-04-2018,Nidhi,Nagaland,Kohima,382,30,3,1146,1236,Clothing,Saree,Credit Card,1
+B-25635,26-04-2018,Nidhi,Nagaland,Kohima,23,2,2,46,50,Clothing,Skirt,UPI,1
+B-26060,13-03-2018,Chirag,Maharashtra,Mumbai,382,68,3,1146,1350,Clothing,Saree,COD,1
+B-26045,03-03-2018,Nidhi,Nagaland,Kohima,376,0,7,2632,2632,Clothing,Stole,Credit Card,1
+B-26045,03-03-2018,Nidhi,Nagaland,Kohima,302,75,6,1812,2262,Furniture,Furnishings,Debit Card,1
+B-26045,03-03-2018,Nidhi,Nagaland,Kohima,179,77,1,179,256,Clothing,Saree,UPI,1
+B-26045,03-03-2018,Nidhi,Nagaland,Kohima,27,5,1,27,32,Clothing,Stole,UPI,1
+B-25770,02-09-2018,Sakshi,Madhya Pradesh,Indore,299,113,2,598,824,Furniture,Bookcases,COD,1
+B-25770,02-09-2018,Sakshi,Madhya Pradesh,Indore,375,180,3,1125,1665,Furniture,Bookcases,Credit Card,1
+B-25770,02-09-2018,Sakshi,Madhya Pradesh,Indore,110,35,1,110,145,Furniture,Furnishings,COD,1
+B-25770,02-09-2018,Sakshi,Madhya Pradesh,Indore,287,-280,12,3444,84,Furniture,Chairs,UPI,1
+B-25744,08-08-2018,Devendra,Andhra Pradesh,Hyderabad,373,254,6,2238,3762,Electronics,Printers,UPI,1
+B-25618,18-04-2018,Manju,Andhra Pradesh,Hyderabad,12,0,2,24,24,Clothing,Hankerchief,UPI,1
+B-25618,18-04-2018,Manju,Andhra Pradesh,Hyderabad,362,127,1,362,489,Furniture,Bookcases,COD,1
+B-25958,18-01-2018,Aparajita,West Bengal,Kolkata,105,25,2,210,260,Clothing,Hankerchief,EMI,1
+B-25958,18-01-2018,Aparajita,West Bengal,Kolkata,360,32,3,1080,1176,Clothing,Saree,UPI,1
+B-25769,02-09-2018,Surbhi,Maharashtra,Mumbai,355,-4,2,710,702,Clothing,Saree,Debit Card,1
+B-25619,18-04-2018,Ramesh,Gujarat,Ahmedabad,353,90,8,2824,3544,Clothing,Saree,COD,1
+B-25688,11-06-2018,Swetha,Madhya Pradesh,Indore,352,-345,5,1760,35,Clothing,Saree,Credit Card,1
+B-25829,25-10-2018,Apoorva,Haryana,Chandigarh,345,38,7,2415,2681,Clothing,Hankerchief,Debit Card,1
+B-26036,23-02-2018,Bhishm,Maharashtra,Mumbai,341,44,7,2387,2695,Furniture,Furnishings,UPI,1
+B-25714,09-07-2018,Stuti,Karnataka,Bangalore,11,-5,2,22,12,Clothing,Hankerchief,COD,1
+B-25714,09-07-2018,Stuti,Karnataka,Bangalore,340,20,7,2380,2520,Clothing,Shirt,Credit Card,1
+B-25989,01-02-2018,Anjali,Delhi,Delhi,42,15,1,42,57,Electronics,Accessories,UPI,1
+B-25989,01-02-2018,Anjali,Delhi,Delhi,330,81,1,330,411,Furniture,Bookcases,Credit Card,1
+B-25989,01-02-2018,Anjali,Delhi,Delhi,338,41,7,2366,2653,Clothing,Hankerchief,UPI,1
+B-25989,01-02-2018,Anjali,Delhi,Delhi,44,14,3,132,174,Clothing,Hankerchief,Credit Card,1
+B-25989,01-02-2018,Anjali,Delhi,Delhi,10,5,1,10,15,Clothing,Stole,COD,1
+B-25849,04-11-2018,K,Sikkim,Gangtok,336,123,3,1008,1377,Electronics,Phones,UPI,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,135,-54,5,675,405,Clothing,Kurti,COD,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,336,71,3,1008,1221,Furniture,Bookcases,COD,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,90,29,5,450,595,Clothing,T-shirt,COD,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,62,1,3,186,189,Clothing,Saree,COD,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,57,27,2,114,168,Clothing,T-shirt,COD,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,237,47,9,2133,2556,Clothing,T-shirt,UPI,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,300,42,2,600,684,Electronics,Printers,COD,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,53,24,6,318,462,Clothing,Hankerchief,EMI,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,103,46,2,206,298,Clothing,Saree,UPI,1
+B-25851,06-11-2018,Kushal,Nagaland,Kohima,10,2,2,20,24,Clothing,Hankerchief,COD,1
+B-25782,15-09-2018,Aayushi,Maharashtra,Mumbai,335,-22,7,2345,2191,Furniture,Chairs,UPI,1
+B-25621,20-04-2018,Deepak,Madhya Pradesh,Bhopal,333,-15,3,999,954,Electronics,Phones,COD,1
+B-25621,20-04-2018,Deepak,Madhya Pradesh,Bhopal,233,-10,5,1165,1115,Electronics,Electronic Games,COD,1
+B-25621,20-04-2018,Deepak,Madhya Pradesh,Bhopal,228,63,3,684,873,Electronics,Electronic Games,Credit Card,1
+B-25996,04-02-2018,Prashant,Delhi,Delhi,31,2,2,62,66,Clothing,Hankerchief,COD,1
+B-25996,04-02-2018,Prashant,Delhi,Delhi,333,50,2,666,766,Electronics,Phones,COD,1
+B-25996,04-02-2018,Prashant,Delhi,Delhi,62,6,6,372,408,Clothing,Skirt,COD,1
+B-25996,04-02-2018,Prashant,Delhi,Delhi,189,4,1,189,193,Clothing,Saree,UPI,1
+B-25996,04-02-2018,Prashant,Delhi,Delhi,47,1,2,94,96,Clothing,Stole,COD,1
+B-25996,04-02-2018,Prashant,Delhi,Delhi,286,140,6,1716,2556,Clothing,Shirt,Debit Card,1
+B-25996,04-02-2018,Prashant,Delhi,Delhi,217,72,2,434,578,Furniture,Furnishings,COD,1
+B-25678,03-06-2018,Bathina,Karnataka,Bangalore,27,-25,2,54,4,Clothing,Shirt,Debit Card,1
+B-25678,03-06-2018,Bathina,Karnataka,Bangalore,327,-39,1,327,288,Electronics,Phones,COD,1
+B-25678,03-06-2018,Bathina,Karnataka,Bangalore,64,-7,3,192,171,Clothing,Saree,COD,1
+B-25678,03-06-2018,Bathina,Karnataka,Bangalore,7,-3,2,14,8,Clothing,Skirt,UPI,1
+B-25727,22-07-2018,Turumella,Madhya Pradesh,Indore,327,114,4,1308,1764,Clothing,Trousers,COD,1
+B-25727,22-07-2018,Turumella,Madhya Pradesh,Indore,57,-48,6,342,54,Clothing,Leggings,Debit Card,1
+B-26018,14-02-2018,Aarushi,Tamil Nadu,Chennai,61,8,4,244,276,Clothing,Hankerchief,Debit Card,1
+B-26018,14-02-2018,Aarushi,Tamil Nadu,Chennai,326,107,3,978,1299,Furniture,Furnishings,UPI,1
+B-25760,24-08-2018,Pooja,Goa,Goa,322,-193,5,1610,645,Electronics,Printers,UPI,1
+B-25804,05-10-2018,Sudheer,Karnataka,Bangalore,156,36,5,780,960,Clothing,T-shirt,EMI,1
+B-25804,05-10-2018,Sudheer,Karnataka,Bangalore,321,26,3,963,1041,Electronics,Printers,Debit Card,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,9,-1,3,27,24,Clothing,Skirt,UPI,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,72,-46,7,504,182,Clothing,Kurti,Debit Card,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,19,0,3,57,57,Clothing,Skirt,UPI,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,41,-14,5,205,135,Clothing,Leggings,UPI,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,93,-65,4,372,112,Clothing,Stole,Credit Card,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,262,215,2,524,954,Electronics,Printers,Debit Card,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,319,312,5,1595,3155,Clothing,Saree,Debit Card,1
+B-25754,18-08-2018,Akshay,Bihar,Patna,30,-23,2,60,14,Clothing,Saree,UPI,1
+B-26020,16-02-2018,Yogesh,Bihar,Patna,319,102,6,1914,2526,Electronics,Accessories,Credit Card,1
+B-25640,27-04-2018,Paridhi,Rajasthan,Jaipur,1499,239,13,19487,22594,Clothing,Saree,Credit Card,1
+B-25640,27-04-2018,Paridhi,Rajasthan,Jaipur,68,-62,2,136,12,Clothing,Trousers,Debit Card,1
+B-25640,27-04-2018,Paridhi,Rajasthan,Jaipur,122,-47,4,488,300,Clothing,Saree,EMI,1
+B-25789,22-09-2018,Akshay,Uttar Pradesh,Lucknow,313,-13,5,1565,1500,Furniture,Bookcases,UPI,1
+B-25789,22-09-2018,Akshay,Uttar Pradesh,Lucknow,30,0,1,30,30,Clothing,Kurti,COD,1
+B-26072,20-03-2018,Sweta,Maharashtra,Mumbai,313,44,3,939,1071,Electronics,Electronic Games,COD,1
+B-26007,09-02-2018,Shubham,Jammu and Kashmir,Kashmir,311,72,2,622,766,Furniture,Bookcases,COD,1
+B-26087,26-03-2018,Vandana,Himachal Pradesh,Simla,180,0,8,1440,1440,Clothing,Stole,COD,1
+B-26087,26-03-2018,Vandana,Himachal Pradesh,Simla,311,40,1,311,351,Electronics,Electronic Games,EMI,1
+B-26087,26-03-2018,Vandana,Himachal Pradesh,Simla,119,56,7,833,1225,Clothing,Saree,EMI,1
+B-26087,26-03-2018,Vandana,Himachal Pradesh,Simla,46,13,3,138,177,Clothing,Hankerchief,COD,1
+B-26087,26-03-2018,Vandana,Himachal Pradesh,Simla,40,10,2,80,100,Clothing,Stole,COD,1
+B-25617,17-04-2018,Sagar,Nagaland,Kohima,305,-270,5,1525,175,Electronics,Electronic Games,Debit Card,1
+B-25984,30-01-2018,Kajal,Delhi,Delhi,304,97,6,1824,2406,Clothing,Stole,UPI,1
+B-25767,31-08-2018,Ashmeet,West Bengal,Kolkata,299,-28,3,897,813,Electronics,Electronic Games,UPI,1
+B-25767,31-08-2018,Ashmeet,West Bengal,Kolkata,74,-59,2,148,30,Electronics,Accessories,Debit Card,1
+B-25767,31-08-2018,Ashmeet,West Bengal,Kolkata,48,-22,2,96,52,Clothing,Saree,EMI,1
+B-25767,31-08-2018,Ashmeet,West Bengal,Kolkata,29,-3,3,87,78,Clothing,Saree,COD,1
+B-25767,31-08-2018,Ashmeet,West Bengal,Kolkata,9,-9,2,18,0,Clothing,Kurti,COD,1
+B-25987,31-01-2018,Manjiri,Delhi,Delhi,299,0,6,1794,1794,Clothing,Stole,COD,1
+B-25987,31-01-2018,Manjiri,Delhi,Delhi,88,11,7,616,693,Clothing,Hankerchief,UPI,1
+B-25840,31-10-2018,Sneha,Karnataka,Bangalore,298,74,2,596,744,Furniture,Bookcases,COD,1
+B-25840,31-10-2018,Sneha,Karnataka,Bangalore,262,64,6,1572,1956,Clothing,Saree,EMI,1
+B-25840,31-10-2018,Sneha,Karnataka,Bangalore,246,61,2,492,614,Furniture,Bookcases,Credit Card,1
+B-25663,19-05-2018,Pournamasi,Madhya Pradesh,Indore,294,138,2,588,864,Electronics,Printers,Debit Card,1
+B-26030,21-02-2018,Sarita,Maharashtra,Pune,291,93,2,582,768,Electronics,Printers,COD,1
+B-26030,21-02-2018,Sarita,Maharashtra,Pune,11,5,1,11,16,Clothing,Skirt,COD,1
+B-26030,21-02-2018,Sarita,Maharashtra,Pune,50,25,5,250,375,Clothing,Stole,COD,1
+B-26030,21-02-2018,Sarita,Maharashtra,Pune,89,36,3,267,375,Clothing,Shirt,UPI,1
+B-26030,21-02-2018,Sarita,Maharashtra,Pune,92,5,6,552,582,Clothing,Hankerchief,Credit Card,1
+B-26030,21-02-2018,Sarita,Maharashtra,Pune,221,35,4,884,1024,Electronics,Accessories,Debit Card,1
+B-25947,13-01-2018,Chetan,Gujarat,Ahmedabad,290,35,6,1740,1950,Clothing,Hankerchief,COD,1
+B-25947,13-01-2018,Chetan,Gujarat,Ahmedabad,207,33,2,414,480,Electronics,Accessories,UPI,1
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,31,-11,3,93,60,Clothing,Skirt,UPI,1
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,287,-66,6,1722,1326,Clothing,Kurti,COD,1
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,190,68,8,1520,2064,Clothing,T-shirt,Credit Card,1
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,103,36,2,206,278,Clothing,Hankerchief,COD,1
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,79,-2,2,158,154,Furniture,Furnishings,EMI,1
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,42,7,2,84,98,Clothing,Kurti,COD,1
+B-25896,05-12-2018,Aman,Maharashtra,Mumbai,23,4,2,46,54,Clothing,Skirt,COD,1
+B-26009,10-02-2018,Komal,Uttar Pradesh,Lucknow,285,128,2,570,826,Electronics,Printers,COD,1
+B-26009,10-02-2018,Komal,Uttar Pradesh,Lucknow,195,12,9,1755,1863,Clothing,Shirt,Credit Card,1
+B-25876,24-11-2018,Bhosale,Punjab,Amritsar,282,14,4,1128,1184,Clothing,Trousers,Debit Card,1
+B-25915,19-12-2018,Sukruta,Punjab,Amritsar,277,3,1,277,280,Electronics,Electronic Games,COD,1
+B-25795,24-09-2018,Sukant,Sikkim,Gangtok,276,-21,2,552,510,Electronics,Phones,EMI,1
+B-26002,08-02-2018,Harsh,Delhi,Delhi,276,52,5,1380,1640,Clothing,Saree,EMI,1
+B-26002,08-02-2018,Harsh,Delhi,Delhi,71,19,3,213,270,Clothing,T-shirt,COD,1
+B-26002,08-02-2018,Harsh,Delhi,Delhi,80,22,3,240,306,Clothing,Stole,Debit Card,1
+B-26002,08-02-2018,Harsh,Delhi,Delhi,141,7,7,987,1036,Clothing,Saree,COD,1
+B-26002,08-02-2018,Harsh,Delhi,Delhi,113,28,2,226,282,Clothing,Saree,UPI,1
+B-25645,01-05-2018,Yaanvi,Madhya Pradesh,Indore,273,-87,4,1092,744,Electronics,Phones,COD,1
+B-25645,01-05-2018,Yaanvi,Madhya Pradesh,Indore,86,0,4,344,344,Clothing,T-shirt,Debit Card,1
+B-25645,01-05-2018,Yaanvi,Madhya Pradesh,Indore,133,-42,1,133,91,Electronics,Printers,UPI,1
+B-25645,01-05-2018,Yaanvi,Madhya Pradesh,Indore,183,-66,5,915,585,Electronics,Phones,UPI,1
+B-25837,29-10-2018,Palak,Maharashtra,Mumbai,263,50,5,1315,1565,Clothing,Stole,COD,1
+B-25612,12-04-2018,Shrichand,Punjab,Chandigarh,259,-55,2,518,408,Furniture,Chairs,COD,1
+B-25812,10-10-2018,Kshitij,Madhya Pradesh,Indore,259,47,5,1295,1530,Clothing,Hankerchief,UPI,1
+B-25843,03-11-2018,Mrunal,Maharashtra,Mumbai,18,6,3,54,72,Clothing,Hankerchief,UPI,1
+B-25843,03-11-2018,Mrunal,Maharashtra,Mumbai,45,0,2,90,90,Clothing,Stole,UPI,1
+B-25843,03-11-2018,Mrunal,Maharashtra,Mumbai,214,30,3,642,732,Electronics,Accessories,COD,1
+B-25843,03-11-2018,Mrunal,Maharashtra,Mumbai,50,7,6,300,342,Clothing,Skirt,COD,1
+B-25843,03-11-2018,Mrunal,Maharashtra,Mumbai,255,74,5,1275,1645,Clothing,Hankerchief,COD,1
+B-26026,19-02-2018,Kanak,Goa,Goa,255,76,9,2295,2979,Clothing,Hankerchief,COD,1
+B-26026,19-02-2018,Kanak,Goa,Goa,25,2,3,75,81,Clothing,Kurti,Credit Card,1
+B-25773,06-09-2018,Shreya,Kerala ,Thiruvananthapuram,224,-143,3,672,243,Furniture,Chairs,COD,1
+B-25773,06-09-2018,Shreya,Kerala ,Thiruvananthapuram,248,-70,3,744,534,Furniture,Chairs,Credit Card,1
+B-25773,06-09-2018,Shreya,Kerala ,Thiruvananthapuram,437,-14,2,874,846,Clothing,Saree,UPI,1
+B-25773,06-09-2018,Shreya,Kerala ,Thiruvananthapuram,85,-9,4,340,304,Clothing,Saree,COD,1
+B-25773,06-09-2018,Shreya,Kerala ,Thiruvananthapuram,209,-21,2,418,376,Electronics,Electronic Games,UPI,1
+B-25875,24-11-2018,Divyeshkumar,Uttar Pradesh,Prayagraj,248,8,2,496,512,Clothing,Saree,Credit Card,1
+B-25660,16-05-2018,Shruti,Karnataka,Bangalore,245,-78,3,735,501,Clothing,Saree,COD,1
+B-25918,22-12-2018,Karandeep,Madhya Pradesh,Indore,244,-122,5,1220,610,Furniture,Furnishings,COD,1
+B-25971,22-01-2018,Mitali,Madhya Pradesh,Indore,244,83,2,488,654,Furniture,Bookcases,COD,1
+B-26063,15-03-2018,Farah,Nagaland,Kohima,241,-77,4,964,656,Electronics,Electronic Games,COD,1
+B-25867,17-11-2018,Ankit,Sikkim,Gangtok,240,12,6,1440,1512,Clothing,Kurti,UPI,1
+B-25867,17-11-2018,Ankit,Sikkim,Gangtok,31,14,3,93,135,Clothing,Stole,UPI,1
+B-25867,17-11-2018,Ankit,Sikkim,Gangtok,163,26,4,652,756,Clothing,Shirt,COD,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,231,-190,9,2079,369,Clothing,Hankerchief,COD,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,97,-45,4,388,208,Clothing,Saree,COD,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,32,-5,5,160,135,Clothing,Hankerchief,UPI,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,47,-27,4,188,80,Clothing,Saree,COD,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,42,-23,2,84,38,Furniture,Furnishings,UPI,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,186,241,9,1674,3843,Clothing,Shirt,Credit Card,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,17,-3,2,34,28,Clothing,Stole,UPI,1
+B-25703,28-06-2018,Ekta,Madhya Pradesh,Indore,22,-15,4,88,28,Clothing,Kurti,COD,1
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,55,-33,2,110,44,Furniture,Chairs,Debit Card,1
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,58,-42,2,116,32,Furniture,Chairs,Debit Card,1
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,145,-104,5,725,205,Furniture,Chairs,UPI,1
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,224,-81,3,672,429,Furniture,Chairs,COD,1
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,19,-15,3,57,12,Clothing,Hankerchief,Credit Card,1
+B-25661,17-05-2018,Subhashree,Jammu and Kashmir,Kashmir,7,-1,2,14,12,Clothing,Hankerchief,Credit Card,1
+B-25748,12-08-2018,Nitant,Rajasthan,Jaipur,47,-21,2,94,52,Electronics,Electronic Games,COD,1
+B-25748,12-08-2018,Nitant,Rajasthan,Jaipur,224,58,3,672,846,Electronics,Phones,UPI,1
+B-25748,12-08-2018,Nitant,Rajasthan,Jaipur,141,10,4,564,604,Clothing,Shirt,UPI,1
+B-25748,12-08-2018,Nitant,Rajasthan,Jaipur,8,-1,2,16,14,Clothing,Leggings,COD,1
+B-25766,30-08-2018,Surabhi,Rajasthan,Jaipur,220,-19,2,440,402,Clothing,Saree,Debit Card,1
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,44,14,3,132,174,Clothing,Hankerchief,Debit Card,1
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,216,-83,3,648,399,Electronics,Electronic Games,COD,1
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,56,18,2,112,148,Clothing,Hankerchief,UPI,1
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,62,6,5,310,340,Clothing,Hankerchief,COD,1
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,128,4,3,384,396,Clothing,Saree,COD,1
+B-25861,15-11-2018,Aayush,Uttar Pradesh,Lucknow,50,3,2,100,106,Clothing,Stole,EMI,1
+B-26058,11-03-2018,Aditya,Punjab,Chandigarh,212,97,7,1484,2163,Clothing,Hankerchief,COD,1
+B-25808,08-10-2018,Apsingekar,Bihar,Patna,63,-17,6,378,276,Clothing,Leggings,COD,1
+B-25808,08-10-2018,Apsingekar,Bihar,Patna,210,-50,4,840,640,Clothing,Hankerchief,Credit Card,1
+B-25808,08-10-2018,Apsingekar,Bihar,Patna,146,-63,3,438,249,Electronics,Electronic Games,Debit Card,1
+B-25808,08-10-2018,Apsingekar,Bihar,Patna,59,21,2,118,160,Clothing,Stole,UPI,1
+B-25900,09-12-2018,Anand,Punjab,Amritsar,15,2,1,15,17,Clothing,Leggings,Debit Card,1
+B-25900,09-12-2018,Anand,Punjab,Amritsar,210,62,2,420,544,Electronics,Phones,COD,1
+B-25900,09-12-2018,Anand,Punjab,Amritsar,140,68,5,700,1040,Clothing,T-shirt,COD,1
+B-26084,25-03-2018,Anita,Kerala ,Thiruvananthapuram,209,-63,4,836,584,Electronics,Electronic Games,COD,1
+B-25652,08-05-2018,Tushina,Goa,Goa,206,-206,3,618,0,Clothing,Saree,COD,1
+B-25652,08-05-2018,Tushina,Goa,Goa,174,-70,3,522,312,Electronics,Accessories,COD,1
+B-25652,08-05-2018,Tushina,Goa,Goa,34,-6,4,136,112,Clothing,Leggings,COD,1
+B-25652,08-05-2018,Tushina,Goa,Goa,21,-13,3,63,24,Clothing,Leggings,UPI,1
+B-25652,08-05-2018,Tushina,Goa,Goa,24,-21,7,168,21,Clothing,Skirt,COD,1
+B-25652,08-05-2018,Tushina,Goa,Goa,25,-2,5,125,115,Clothing,Hankerchief,UPI,1
+B-25652,08-05-2018,Tushina,Goa,Goa,9,-6,2,18,6,Clothing,Hankerchief,COD,1
+B-26008,09-02-2018,Kalyani,Tamil Nadu,Chennai,206,51,4,824,1028,Clothing,Hankerchief,Credit Card,1
+B-26008,09-02-2018,Kalyani,Tamil Nadu,Chennai,199,-1,1,199,198,Clothing,Saree,Credit Card,1
+B-26008,09-02-2018,Kalyani,Tamil Nadu,Chennai,57,24,5,285,405,Clothing,Leggings,COD,1
+B-26008,09-02-2018,Kalyani,Tamil Nadu,Chennai,22,4,1,22,26,Clothing,Stole,COD,1
+B-25799,01-10-2018,Divyansh,Gujarat,Ahmedabad,45,-15,2,90,60,Furniture,Chairs,COD,1
+B-25799,01-10-2018,Divyansh,Gujarat,Ahmedabad,205,-119,3,615,258,Clothing,Saree,Debit Card,1
+B-25799,01-10-2018,Divyansh,Gujarat,Ahmedabad,70,-64,5,350,30,Clothing,Stole,UPI,1
+B-25799,01-10-2018,Divyansh,Gujarat,Ahmedabad,47,-27,4,188,80,Clothing,Saree,EMI,1
+B-25927,31-12-2018,Shreya,Uttar Pradesh,Lucknow,200,7,4,800,828,Electronics,Electronic Games,Credit Card,1
+B-25985,31-01-2018,Ginny,Madhya Pradesh,Indore,32,8,5,160,200,Clothing,Hankerchief,UPI,1
+B-25985,31-01-2018,Ginny,Madhya Pradesh,Indore,197,20,4,788,868,Clothing,Kurti,Credit Card,1
+B-25985,31-01-2018,Ginny,Madhya Pradesh,Indore,108,26,4,432,536,Clothing,Shirt,UPI,1
+B-25985,31-01-2018,Ginny,Madhya Pradesh,Indore,44,11,4,176,220,Clothing,Stole,COD,1
+B-25994,03-02-2018,Omkar,Delhi,Delhi,196,-7,5,980,945,Electronics,Phones,COD,1
+B-25620,20-04-2018,Sarita,Maharashtra,Pune,193,46,1,193,239,Electronics,Printers,Credit Card,1
+B-25976,25-01-2018,Piyam,Punjab,Amritsar,193,8,4,772,804,Clothing,T-shirt,UPI,1
+B-26068,16-03-2018,Shefali,Rajasthan,Jaipur,193,33,5,965,1130,Electronics,Accessories,COD,1
+B-25721,16-07-2018,Anchal,Haryana,Chandigarh,149,-40,2,298,218,Electronics,Phones,COD,1
+B-25721,16-07-2018,Anchal,Haryana,Chandigarh,29,-18,7,203,77,Clothing,Skirt,UPI,1
+B-25721,16-07-2018,Anchal,Haryana,Chandigarh,191,51,5,955,1210,Clothing,Shirt,UPI,1
+B-25863,15-11-2018,Manibalan,Kerala ,Thiruvananthapuram,189,87,7,1323,1932,Clothing,Stole,COD,1
+B-25991,03-02-2018,Mansi,Madhya Pradesh,Indore,13,5,2,26,36,Clothing,Hankerchief,UPI,1
+B-25991,03-02-2018,Mansi,Madhya Pradesh,Indore,188,13,7,1316,1407,Clothing,Shirt,COD,1
+B-25991,03-02-2018,Mansi,Madhya Pradesh,Indore,90,30,2,180,240,Furniture,Chairs,UPI,1
+B-25737,01-08-2018,Shubham,Madhya Pradesh,Indore,187,-15,3,561,516,Clothing,Trousers,COD,1
+B-26043,01-03-2018,Amit,Sikkim,Gangtok,79,5,6,474,504,Clothing,Hankerchief,Debit Card,1
+B-26043,01-03-2018,Amit,Sikkim,Gangtok,30,12,3,90,126,Clothing,Skirt,UPI,1
+B-26043,01-03-2018,Amit,Sikkim,Gangtok,185,48,4,740,932,Clothing,Stole,UPI,1
+B-26043,01-03-2018,Amit,Sikkim,Gangtok,122,50,7,854,1204,Clothing,Stole,UPI,1
+B-26043,01-03-2018,Amit,Sikkim,Gangtok,62,28,5,310,450,Clothing,Hankerchief,UPI,1
+B-25977,27-01-2018,Aayushi,Gujarat,Surat,27,1,1,27,28,Clothing,Stole,UPI,1
+B-25977,27-01-2018,Aayushi,Gujarat,Surat,74,29,3,222,309,Clothing,Stole,COD,1
+B-25977,27-01-2018,Aayushi,Gujarat,Surat,180,54,4,720,936,Clothing,T-shirt,Credit Card,1
+B-25908,12-12-2018,Pradeep,Delhi,Delhi,179,-25,5,895,770,Clothing,Kurti,COD,1
+B-25941,07-01-2018,Jaideep,Nagaland,Kohima,177,41,4,708,872,Clothing,Shirt,Debit Card,1
+B-25794,24-09-2018,Aditya,Himachal Pradesh,Simla,176,37,6,1056,1278,Electronics,Accessories,COD,1
+B-26041,27-02-2018,Ritu,Haryana,Chandigarh,176,-28,5,880,740,Furniture,Furnishings,COD,1
+B-25695,18-06-2018,Suhani,West Bengal,Kolkata,171,14,9,1539,1665,Clothing,Shirt,Debit Card,1
+B-25960,18-01-2018,Shreya,Andhra Pradesh,Hyderabad,171,-140,2,342,62,Furniture,Bookcases,EMI,1
+B-26037,23-02-2018,Hitika,Madhya Pradesh,Indore,171,68,7,1197,1673,Clothing,Stole,EMI,1
+B-25921,25-12-2018,Sandra,Punjab,Amritsar,84,-42,2,168,84,Electronics,Accessories,COD,1
+B-25921,25-12-2018,Sandra,Punjab,Amritsar,170,19,5,850,945,Clothing,T-shirt,UPI,1
+B-25921,25-12-2018,Sandra,Punjab,Amritsar,71,-44,5,355,135,Electronics,Accessories,UPI,1
+B-25944,10-01-2018,Syed,Maharashtra,Pune,169,38,3,507,621,Clothing,Saree,Debit Card,1
+B-25724,19-07-2018,Sheetal,Madhya Pradesh,Indore,168,-51,2,336,234,Furniture,Bookcases,COD,1
+B-26024,19-02-2018,Vandana,Himachal Pradesh,Simla,168,18,6,1008,1116,Clothing,Stole,Debit Card,1
+B-25694,18-06-2018,Subhasmita,Rajasthan,Jaipur,167,43,7,1169,1470,Clothing,T-shirt,EMI,1
+B-25665,21-05-2018,Chayanika,Kerala ,Thiruvananthapuram,166,-113,4,664,212,Electronics,Accessories,EMI,1
+B-26004,08-02-2018,Nandita,Rajasthan,Jaipur,162,73,2,324,470,Electronics,Electronic Games,COD,1
+B-26004,08-02-2018,Nandita,Rajasthan,Jaipur,147,44,3,441,573,Clothing,Saree,COD,1
+B-25611,11-04-2018,Anita,Kerala ,Thiruvananthapuram,160,-59,2,320,202,Clothing,Saree,EMI,1
+B-25901,10-12-2018,Suraj,Gujarat,Surat,159,2,3,477,483,Furniture,Furnishings,EMI,1
+B-25901,10-12-2018,Suraj,Gujarat,Surat,90,27,2,180,234,Clothing,T-shirt,COD,1
+B-25901,10-12-2018,Suraj,Gujarat,Surat,61,28,2,122,178,Clothing,Hankerchief,UPI,1
+B-25901,10-12-2018,Suraj,Gujarat,Surat,158,38,3,474,588,Clothing,Hankerchief,UPI,1
+B-25623,22-04-2018,Atharv,West Bengal,Kolkata,149,-87,4,596,248,Clothing,Saree,COD,1
+B-25623,22-04-2018,Atharv,West Bengal,Kolkata,105,20,2,210,250,Clothing,Stole,Debit Card,1
+B-25623,22-04-2018,Atharv,West Bengal,Kolkata,158,69,3,474,681,Clothing,Stole,EMI,1
+B-25623,22-04-2018,Atharv,West Bengal,Kolkata,53,1,4,212,216,Clothing,Stole,COD,1
+B-25713,08-07-2018,Raksha,West Bengal,Kolkata,158,-63,4,632,380,Furniture,Chairs,UPI,1
+B-26091,27-03-2018,Manju,Andhra Pradesh,Hyderabad,29,10,4,116,156,Clothing,Hankerchief,UPI,1
+B-26091,27-03-2018,Manju,Andhra Pradesh,Hyderabad,158,69,3,474,681,Clothing,Stole,EMI,1
+B-26091,27-03-2018,Manju,Andhra Pradesh,Hyderabad,59,10,4,236,276,Clothing,Leggings,COD,1
+B-25604,03-04-2018,Divsha,Rajasthan,Jaipur,65,17,2,130,164,Clothing,T-shirt,UPI,1
+B-25604,03-04-2018,Divsha,Rajasthan,Jaipur,157,5,9,1413,1458,Clothing,Saree,UPI,1
+B-25827,23-10-2018,Sheetal,Madhya Pradesh,Indore,156,21,3,468,531,Furniture,Chairs,COD,1
+B-25835,29-10-2018,Moumita,Gujarat,Ahmedabad,52,11,5,260,315,Clothing,Leggings,COD,1
+B-25835,29-10-2018,Moumita,Gujarat,Ahmedabad,27,2,2,54,58,Clothing,Leggings,UPI,1
+B-25835,29-10-2018,Moumita,Gujarat,Ahmedabad,155,26,3,465,543,Clothing,Stole,EMI,1
+B-26025,19-02-2018,Bhavna,Sikkim,Gangtok,41,19,5,205,300,Clothing,Hankerchief,Debit Card,1
+B-26025,19-02-2018,Bhavna,Sikkim,Gangtok,32,1,2,64,66,Clothing,Stole,COD,1
+B-26025,19-02-2018,Bhavna,Sikkim,Gangtok,155,5,3,465,480,Clothing,Stole,EMI,1
+B-25809,09-10-2018,Suman,Kerala ,Thiruvananthapuram,53,24,1,53,77,Clothing,Hankerchief,Debit Card,1
+B-25809,09-10-2018,Suman,Kerala ,Thiruvananthapuram,154,54,3,462,624,Clothing,Hankerchief,COD,1
+B-25905,11-12-2018,Bhargav,Delhi,Delhi,152,50,6,912,1212,Clothing,Stole,UPI,1
+B-25948,13-01-2018,Mukund,Maharashtra,Pune,152,23,3,456,525,Furniture,Furnishings,COD,1
+B-26094,27-03-2018,Deepak,Madhya Pradesh,Bhopal,152,50,6,912,1212,Clothing,Stole,COD,1
+B-25949,13-01-2018,Shantanu,Maharashtra,Mumbai,151,9,3,453,480,Clothing,Hankerchief,EMI,1
+B-25949,13-01-2018,Shantanu,Maharashtra,Mumbai,140,57,2,280,394,Clothing,Trousers,Debit Card,1
+B-25949,13-01-2018,Shantanu,Maharashtra,Mumbai,24,11,3,72,105,Clothing,Hankerchief,COD,1
+B-26001,07-02-2018,Patil,Delhi,Delhi,8,2,2,16,20,Clothing,Skirt,UPI,1
+B-26001,07-02-2018,Patil,Delhi,Delhi,50,-10,6,300,240,Clothing,Skirt,Debit Card,1
+B-26001,07-02-2018,Patil,Delhi,Delhi,149,17,4,596,664,Furniture,Furnishings,COD,1
+B-26001,07-02-2018,Patil,Delhi,Delhi,13,0,2,26,26,Clothing,Hankerchief,COD,1
+B-25771,02-09-2018,Vaibhavi,Uttar Pradesh,Lucknow,148,59,3,444,621,Clothing,Hankerchief,COD,1
+B-25659,15-05-2018,Sanskriti,West Bengal,Kolkata,148,72,7,1036,1540,Clothing,T-shirt,Debit Card,1
+B-25924,28-12-2018,Prajakta,Karnataka,Bangalore,148,54,2,296,404,Furniture,Chairs,UPI,1
+B-25883,27-11-2018,Saptadeep,Gujarat,Surat,16,-15,4,64,4,Clothing,Hankerchief,UPI,1
+B-25883,27-11-2018,Saptadeep,Gujarat,Surat,127,29,3,381,468,Furniture,Furnishings,COD,1
+B-25883,27-11-2018,Saptadeep,Gujarat,Surat,105,-26,8,840,632,Clothing,Leggings,Credit Card,1
+B-25883,27-11-2018,Saptadeep,Gujarat,Surat,146,42,5,730,940,Clothing,Hankerchief,UPI,1
+B-25883,27-11-2018,Saptadeep,Gujarat,Surat,10,-2,2,20,16,Clothing,Leggings,COD,1
+B-25946,12-01-2018,Saurabh,Andhra Pradesh,Hyderabad,146,7,2,292,306,Electronics,Phones,Debit Card,1
+B-26065,16-03-2018,Nida,Madhya Pradesh,Indore,146,19,5,730,825,Clothing,Stole,COD,1
+B-26083,24-03-2018,Yogesh,Bihar,Patna,43,8,3,129,153,Clothing,Leggings,COD,1
+B-26083,24-03-2018,Yogesh,Bihar,Patna,45,17,1,45,62,Electronics,Accessories,COD,1
+B-26083,24-03-2018,Yogesh,Bihar,Patna,143,6,2,286,298,Electronics,Accessories,UPI,1
+B-26083,24-03-2018,Yogesh,Bihar,Patna,145,16,3,435,483,Clothing,T-shirt,Debit Card,1
+B-26083,24-03-2018,Yogesh,Bihar,Patna,34,3,3,102,111,Clothing,Saree,COD,1
+B-25725,20-07-2018,Anisha,Nagaland,Kohima,144,-7,4,576,548,Electronics,Electronic Games,COD,1
+B-25725,20-07-2018,Anisha,Nagaland,Kohima,26,-5,2,52,42,Clothing,Stole,UPI,1
+B-25725,20-07-2018,Anisha,Nagaland,Kohima,23,-5,7,161,126,Clothing,Hankerchief,Credit Card,1
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,34,-22,4,136,48,Clothing,T-shirt,COD,1
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,133,12,5,665,725,Clothing,Stole,Debit Card,1
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,114,-39,5,570,375,Clothing,Kurti,COD,1
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,42,-26,2,84,32,Clothing,Kurti,COD,1
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,40,-7,3,120,99,Clothing,Stole,COD,1
+B-25630,24-04-2018,Sahil,Punjab,Chandigarh,143,-129,2,286,28,Electronics,Phones,COD,1
+B-25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,143,-124,5,715,95,Clothing,Saree,UPI,1
+B-25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,37,-5,3,111,96,Clothing,T-shirt,Debit Card,1
+B-25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,45,-2,4,180,172,Clothing,Shirt,COD,1
+B-25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,149,-1,1,149,148,Clothing,Saree,COD,1
+B-25673,28-05-2018,Arsheen,Gujarat,Ahmedabad,44,-17,5,220,135,Clothing,Saree,UPI,1
+B-25692,17-06-2018,Rashmi,Madhya Pradesh,Indore,141,28,7,987,1183,Furniture,Furnishings,UPI,1
+B-25992,03-02-2018,Gaurav,Rajasthan,Udaipur,141,41,3,423,546,Clothing,Shirt,UPI,1
+B-25765,29-08-2018,Meghana,Madhya Pradesh,Bhopal,139,14,3,417,459,Clothing,Stole,COD,1
+B-25892,04-12-2018,Aditi,Rajasthan,Udaipur,139,30,3,417,507,Clothing,Shirt,UPI,1
+B-26089,26-03-2018,Kanak,Goa,Goa,27,4,1,27,31,Clothing,Hankerchief,COD,1
+B-26089,26-03-2018,Kanak,Goa,Goa,59,24,6,354,498,Clothing,Kurti,Debit Card,1
+B-26089,26-03-2018,Kanak,Goa,Goa,139,14,3,417,459,Clothing,Kurti,COD,1
+B-25780,13-09-2018,Teena,Andhra Pradesh,Hyderabad,137,-41,3,411,288,Electronics,Phones,Debit Card,1
+B-25684,09-06-2018,Samiksha,Maharashtra,Mumbai,134,42,2,268,352,Furniture,Chairs,COD,1
+B-25739,03-08-2018,Daksh,Haryana,Chandigarh,133,-56,2,266,154,Furniture,Chairs,COD,1
+B-25648,04-05-2018,Aditya,Punjab,Chandigarh,30,13,1,30,43,Clothing,T-shirt,UPI,1
+B-25648,04-05-2018,Aditya,Punjab,Chandigarh,100,-23,1,100,77,Electronics,Phones,COD,1
+B-25648,04-05-2018,Aditya,Punjab,Chandigarh,130,-41,4,520,356,Clothing,Saree,EMI,1
+B-25648,04-05-2018,Aditya,Punjab,Chandigarh,55,-26,4,220,116,Clothing,Saree,UPI,1
+B-26038,24-02-2018,Pooja,Bihar,Patna,41,19,2,82,120,Clothing,T-shirt,Debit Card,1
+B-26038,24-02-2018,Pooja,Bihar,Patna,52,14,2,104,132,Clothing,Stole,COD,1
+B-26038,24-02-2018,Pooja,Bihar,Patna,130,61,3,390,573,Clothing,Shirt,Debit Card,1
+B-26038,24-02-2018,Pooja,Bihar,Patna,30,6,1,30,36,Clothing,T-shirt,COD,1
+B-25700,25-06-2018,Shubhi,Maharashtra,Mumbai,44,-32,3,132,36,Clothing,Stole,Debit Card,1
+B-25700,25-06-2018,Shubhi,Maharashtra,Mumbai,129,-75,5,645,270,Clothing,Shirt,Debit Card,1
+B-25700,25-06-2018,Shubhi,Maharashtra,Mumbai,7,-3,2,14,8,Clothing,Hankerchief,COD,1
+B-26015,14-02-2018,Kasheen,West Bengal,Kolkata,128,55,1,128,183,Clothing,Saree,COD,1
+B-25704,29-06-2018,Riya,Maharashtra,Mumbai,126,-63,3,378,189,Electronics,Accessories,UPI,1
+B-25704,29-06-2018,Riya,Maharashtra,Mumbai,102,0,3,306,306,Electronics,Phones,COD,1
+B-25811,10-10-2018,Utsav,Maharashtra,Mumbai,126,52,4,504,712,Clothing,Hankerchief,UPI,1
+B-25821,16-10-2018,Ajay,West Bengal,Kolkata,17,0,1,17,17,Clothing,Hankerchief,COD,1
+B-25821,16-10-2018,Ajay,West Bengal,Kolkata,125,0,3,375,375,Electronics,Accessories,COD,1
+B-25821,16-10-2018,Ajay,West Bengal,Kolkata,60,21,4,240,324,Clothing,Stole,COD,1
+B-25874,24-11-2018,Megha,Rajasthan,Udaipur,124,54,5,620,890,Clothing,T-shirt,COD,1
+B-25668,24-05-2018,Rhea,Himachal Pradesh,Simla,123,17,3,369,420,Furniture,Furnishings,COD,1
+B-25800,01-10-2018,Ishit,Maharashtra,Pune,45,12,7,315,399,Clothing,Hankerchief,UPI,1
+B-25800,01-10-2018,Ishit,Maharashtra,Pune,122,-66,9,1098,504,Electronics,Accessories,COD,1
+B-25800,01-10-2018,Ishit,Maharashtra,Pune,21,-6,3,63,45,Clothing,Leggings,COD,1
+B-25928,01-01-2018,Smriti,Bihar,Patna,122,15,3,366,411,Electronics,Accessories,EMI,1
+B-25928,01-01-2018,Smriti,Bihar,Patna,25,10,1,25,35,Furniture,Furnishings,UPI,1
+B-26021,17-02-2018,Anita,Kerala ,Thiruvananthapuram,21,-12,3,63,27,Clothing,Hankerchief,Debit Card,1
+B-26021,17-02-2018,Anita,Kerala ,Thiruvananthapuram,49,21,1,49,70,Clothing,Stole,UPI,1
+B-26021,17-02-2018,Anita,Kerala ,Thiruvananthapuram,122,59,7,854,1267,Furniture,Furnishings,COD,1
+B-26064,16-03-2018,Ankita,Maharashtra,Mumbai,61,3,4,244,256,Clothing,Hankerchief,COD,1
+B-26064,16-03-2018,Ankita,Maharashtra,Mumbai,75,2,5,375,385,Clothing,Leggings,Debit Card,1
+B-26064,16-03-2018,Ankita,Maharashtra,Mumbai,122,38,6,732,960,Clothing,T-shirt,Credit Card,1
+B-26064,16-03-2018,Ankita,Maharashtra,Mumbai,179,0,2,358,358,Clothing,Saree,Debit Card,1
+B-25882,26-11-2018,Masurkar,Punjab,Amritsar,121,19,4,484,560,Clothing,Stole,COD,1
+B-25891,04-12-2018,Shivani,Madhya Pradesh,Indore,121,41,4,484,648,Clothing,Stole,UPI,1
+B-25891,04-12-2018,Shivani,Madhya Pradesh,Indore,97,36,7,679,931,Clothing,Hankerchief,UPI,1
+B-25891,04-12-2018,Shivani,Madhya Pradesh,Indore,25,2,2,50,54,Clothing,Hankerchief,UPI,1
+B-25820,16-10-2018,Dheeraj,Rajasthan,Jaipur,119,1,1,119,120,Furniture,Chairs,COD,1
+B-25889,03-12-2018,Abhishek,Gujarat,Surat,114,11,4,456,500,Clothing,T-shirt,Debit Card,1
+B-25889,03-12-2018,Abhishek,Gujarat,Surat,119,-43,7,833,532,Clothing,Kurti,Credit Card,1
+B-25889,03-12-2018,Abhishek,Gujarat,Surat,31,10,1,31,41,Clothing,Kurti,COD,1
+B-25871,21-11-2018,Gunjal,Gujarat,Surat,118,25,4,472,572,Clothing,Hankerchief,Credit Card,1
+B-25637,26-04-2018,Ashmi,Madhya Pradesh,Indore,117,14,3,351,393,Clothing,Shirt,UPI,1
+B-25616,15-04-2018,Kanak,Goa,Goa,14,-2,3,42,36,Clothing,Hankerchief,UPI,1
+B-25616,15-04-2018,Kanak,Goa,Goa,116,-56,5,580,300,Clothing,Stole,Credit Card,1
+B-25616,15-04-2018,Kanak,Goa,Goa,42,12,5,210,270,Clothing,Hankerchief,COD,1
+B-25616,15-04-2018,Kanak,Goa,Goa,22,-2,3,66,60,Clothing,Hankerchief,COD,1
+B-25972,23-01-2018,Jesslyn,Rajasthan,Udaipur,115,47,2,230,324,Electronics,Accessories,COD,1
+B-25805,05-10-2018,Ankit,Maharashtra,Mumbai,112,15,2,224,254,Furniture,Chairs,COD,1
+B-25860,15-11-2018,Akshay,Tamil Nadu,Chennai,112,24,3,336,408,Clothing,Kurti,COD,1
+B-26080,22-03-2018,Sonakshi,Jammu and Kashmir,Kashmir,109,35,6,654,864,Clothing,T-shirt,COD,1
+B-25807,07-10-2018,Vipul,Uttar Pradesh,Lucknow,16,6,1,16,22,Clothing,Stole,COD,1
+B-25734,29-07-2018,Pranav,Madhya Pradesh,Indore,108,-19,3,324,267,Electronics,Electronic Games,UPI,1
+B-25880,24-11-2018,Apoorv,Rajasthan,Udaipur,108,37,2,216,290,Clothing,Stole,Credit Card,1
+B-25934,04-01-2018,Rahul,Madhya Pradesh,Indore,105,33,6,630,828,Clothing,Saree,EMI,1
+B-25913,17-12-2018,Geetanjali,Delhi,Delhi,103,21,7,721,868,Clothing,Stole,UPI,1
+B-25912,16-12-2018,Preksha,Delhi,Delhi,102,11,6,612,678,Clothing,T-shirt,COD,1
+B-25824,20-10-2018,Shyam,Madhya Pradesh,Indore,101,38,2,202,278,Furniture,Furnishings,COD,1
+B-25711,06-07-2018,Sakshi,Madhya Pradesh,Bhopal,100,-58,4,400,168,Clothing,Hankerchief,COD,1
+B-25864,15-11-2018,Aromal,Maharashtra,Mumbai,100,6,4,400,424,Clothing,Stole,COD,1
+B-25864,15-11-2018,Aromal,Maharashtra,Mumbai,27,9,2,54,72,Clothing,Hankerchief,COD,1
+B-25864,15-11-2018,Aromal,Maharashtra,Mumbai,22,8,2,44,60,Clothing,Leggings,COD,1
+B-25864,15-11-2018,Aromal,Maharashtra,Mumbai,17,5,1,17,22,Clothing,Hankerchief,UPI,1
+B-25917,21-12-2018,Sanjay,Maharashtra,Mumbai,100,12,2,200,224,Clothing,T-shirt,UPI,1
+B-26049,05-03-2018,Lisha,Madhya Pradesh,Bhopal,100,28,2,200,256,Clothing,Hankerchief,UPI,1
+B-25920,24-12-2018,Jayanti,Uttar Pradesh,Prayagraj,100,7,2,200,214,Clothing,T-shirt,UPI,1
+B-25699,24-06-2018,Kritika,Uttar Pradesh,Lucknow,49,-31,2,98,36,Clothing,Stole,UPI,1
+B-25699,24-06-2018,Kritika,Uttar Pradesh,Lucknow,34,-13,5,170,105,Clothing,Leggings,COD,1
+B-25699,24-06-2018,Kritika,Uttar Pradesh,Lucknow,21,-5,1,21,16,Electronics,Accessories,COD,1
+B-25735,30-07-2018,Arindam,Uttar Pradesh,Lucknow,7,-1,2,14,12,Clothing,Skirt,UPI,1
+B-25735,30-07-2018,Arindam,Uttar Pradesh,Lucknow,12,-2,3,36,30,Clothing,Hankerchief,COD,1
+B-25735,30-07-2018,Arindam,Uttar Pradesh,Lucknow,15,-7,1,15,8,Clothing,Hankerchief,UPI,1
+B-25701,26-06-2018,Maithilee,Madhya Pradesh,Indore,98,-45,2,196,106,Furniture,Chairs,UPI,1
+B-25701,26-06-2018,Maithilee,Madhya Pradesh,Indore,33,-29,3,99,12,Clothing,Shirt,UPI,1
+B-25701,26-06-2018,Maithilee,Madhya Pradesh,Indore,10,-8,2,20,4,Clothing,Skirt,COD,1
+B-25701,26-06-2018,Maithilee,Madhya Pradesh,Indore,33,-12,5,165,105,Clothing,Hankerchief,COD,1
+B-26092,27-03-2018,Ramesh,Gujarat,Ahmedabad,97,14,2,194,222,Clothing,T-shirt,Credit Card,1
+B-26082,23-03-2018,Jitesh,Uttar Pradesh,Lucknow,95,5,2,190,200,Clothing,Stole,UPI,1
+B-25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,32,11,2,64,86,Clothing,Leggings,UPI,1
+B-25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,36,0,4,144,144,Clothing,Kurti,COD,1
+B-25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,28,14,4,112,168,Clothing,Hankerchief,COD,1
+B-25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,75,28,9,675,927,Clothing,Hankerchief,UPI,1
+B-25818,14-10-2018,Sandeep,Madhya Pradesh,Indore,94,20,2,188,228,Furniture,Furnishings,UPI,1
+B-25846,03-11-2018,Soodesh,Punjab,Chandigarh,94,7,7,658,707,Clothing,Leggings,UPI,1
+B-26011,12-02-2018,Bharat,Gujarat,Ahmedabad,93,44,2,186,274,Clothing,Stole,Credit Card,1
+B-25631,24-04-2018,Ritu,Haryana,Chandigarh,89,-89,2,178,0,Furniture,Furnishings,COD,1
+B-25606,06-04-2018,Hazel,Karnataka,Bangalore,87,4,2,174,182,Clothing,Shirt,COD,1
+B-25746,10-08-2018,Shivam,Maharashtra,Pune,87,16,2,174,206,Clothing,Saree,UPI,1
+B-26005,08-02-2018,Parnavi,West Bengal,Kolkata,87,10,3,261,291,Clothing,Stole,COD,1
+B-25844,03-11-2018,Swati,Madhya Pradesh,Indore,86,8,2,172,188,Clothing,Saree,Debit Card,1
+B-25869,19-11-2018,Parakh,Nagaland,Kohima,86,9,3,258,285,Clothing,Saree,COD,1
+B-26066,16-03-2018,Priyanka,Maharashtra,Pune,86,22,2,172,216,Clothing,Saree,Debit Card,1
+B-25865,15-11-2018,Arun,Madhya Pradesh,Indore,85,-1,3,255,252,Clothing,Saree,Credit Card,1
+B-26039,25-02-2018,Hemant,Kerala ,Thiruvananthapuram,83,34,5,415,585,Clothing,Shirt,Debit Card,1
+B-25916,20-12-2018,Utkarsh,Gujarat,Surat,80,-26,9,720,486,Clothing,Skirt,EMI,1
+B-26090,27-03-2018,Sagar,Nagaland,Kohima,80,22,3,240,306,Clothing,Stole,EMI,1
+B-25906,11-12-2018,Abhijit,Delhi,Delhi,78,27,3,234,315,Clothing,Stole,COD,1
+B-26017,14-02-2018,Sonakshi,Jammu and Kashmir,Kashmir,78,7,1,78,85,Furniture,Chairs,COD,1
+B-25679,04-06-2018,Avni,Maharashtra,Mumbai,76,-50,1,76,26,Clothing,Saree,COD,1
+B-25723,18-07-2018,Wale,Maharashtra,Mumbai,12,-7,2,24,10,Clothing,Leggings,UPI,1
+B-25723,18-07-2018,Wale,Maharashtra,Mumbai,76,-54,3,228,66,Electronics,Electronic Games,COD,1
+B-25723,18-07-2018,Wale,Maharashtra,Mumbai,26,-24,1,26,2,Clothing,Stole,COD,1
+B-25723,18-07-2018,Wale,Maharashtra,Mumbai,16,-12,2,32,8,Clothing,Stole,UPI,1
+B-25605,05-04-2018,Kasheen,West Bengal,Kolkata,75,0,7,525,525,Clothing,Saree,EMI,1
+B-25792,24-09-2018,Abhishek,Maharashtra,Mumbai,74,-25,3,222,147,Clothing,Stole,COD,1
+B-25680,04-06-2018,Aayushi,Madhya Pradesh,Indore,73,-25,3,219,144,Clothing,Saree,COD,1
+B-25931,04-01-2018,Sidharth,Maharashtra,Mumbai,73,-36,3,219,111,Furniture,Chairs,UPI,1
+B-25932,04-01-2018,Bhutekar,Madhya Pradesh,Indore,71,-14,4,284,228,Furniture,Furnishings,COD,1
+B-25990,02-02-2018,Mugdha,Delhi,Delhi,71,32,3,213,309,Clothing,Saree,Debit Card,1
+B-25615,15-04-2018,Bhavna,Sikkim,Gangtok,68,20,5,340,440,Clothing,Hankerchief,Debit Card,1
+B-26031,22-02-2018,Deepak,Madhya Pradesh,Bhopal,67,9,4,268,304,Clothing,Leggings,Debit Card,1
+B-25801,01-10-2018,Aryan,Madhya Pradesh,Bhopal,15,-2,1,15,13,Clothing,T-shirt,Debit Card,1
+B-25801,01-10-2018,Aryan,Madhya Pradesh,Bhopal,21,-10,4,84,44,Clothing,Leggings,COD,1
+B-25801,01-10-2018,Aryan,Madhya Pradesh,Bhopal,64,6,4,256,280,Clothing,Saree,COD,1
+B-25801,01-10-2018,Aryan,Madhya Pradesh,Bhopal,49,-31,2,98,36,Clothing,Stole,COD,1
+B-25833,29-10-2018,Krishna,Madhya Pradesh,Indore,64,27,5,320,455,Clothing,Hankerchief,UPI,1
+B-25833,29-10-2018,Krishna,Madhya Pradesh,Indore,45,16,3,135,183,Clothing,Stole,COD,1
+B-25833,29-10-2018,Krishna,Madhya Pradesh,Indore,36,4,9,324,360,Clothing,Hankerchief,COD,1
+B-26077,22-03-2018,Divsha,Rajasthan,Jaipur,62,11,7,434,511,Clothing,Hankerchief,UPI,1
+B-25936,05-01-2018,Nikhil,Punjab,Chandigarh,61,25,4,244,344,Clothing,Saree,UPI,1
+B-25938,05-01-2018,Shikhar,Himachal Pradesh,Simla,61,1,2,122,124,Furniture,Furnishings,COD,1
+B-25938,05-01-2018,Shikhar,Himachal Pradesh,Simla,59,25,3,177,252,Clothing,Stole,COD,1
+B-25716,11-07-2018,Surabhi,Tamil Nadu,Chennai,58,0,4,232,232,Clothing,Saree,UPI,1
+B-25740,03-08-2018,Rane,Maharashtra,Mumbai,58,-8,2,116,100,Clothing,Saree,COD,1
+B-25740,03-08-2018,Rane,Maharashtra,Mumbai,40,-37,3,120,9,Clothing,Stole,COD,1
+B-25740,03-08-2018,Rane,Maharashtra,Mumbai,7,0,2,14,14,Clothing,Skirt,COD,1
+B-25763,27-08-2018,Noshiba,Gujarat,Ahmedabad,58,-52,3,174,18,Furniture,Chairs,COD,1
+B-25872,22-11-2018,Saurabh,Maharashtra,Mumbai,57,27,2,114,168,Clothing,Shirt,COD,1
+B-25879,24-11-2018,Siddharth,Madhya Pradesh,Indore,57,-28,2,114,58,Clothing,Kurti,COD,1
+B-25926,30-12-2018,Dipali,Madhya Pradesh,Indore,57,6,5,285,315,Clothing,Leggings,Debit Card,1
+B-26074,21-03-2018,Bharat,Gujarat,Ahmedabad,57,21,4,228,312,Clothing,Leggings,COD,1
+B-25627,23-04-2018,Hitika,Madhya Pradesh,Indore,55,-39,4,220,64,Clothing,Stole,COD,1
+B-25940,06-01-2018,Vivek,Goa,Goa,13,3,2,26,32,Clothing,Hankerchief,COD,1
+B-25940,06-01-2018,Vivek,Goa,Goa,55,4,2,110,118,Clothing,Stole,COD,1
+B-25940,06-01-2018,Vivek,Goa,Goa,46,0,4,184,184,Clothing,Leggings,COD,1
+B-26047,04-03-2018,Ashmi,Madhya Pradesh,Indore,55,12,5,275,335,Clothing,Skirt,COD,1
+B-26069,17-03-2018,Sanskriti,West Bengal,Kolkata,55,18,2,110,146,Clothing,Kurti,COD,1
+B-26027,20-02-2018,Sagar,Nagaland,Kohima,54,8,4,216,248,Clothing,T-shirt,COD,1
+B-25963,19-01-2018,Pratiksha,Maharashtra,Mumbai,53,8,3,159,183,Furniture,Furnishings,UPI,1
+B-25922,26-12-2018,Akshata,Gujarat,Surat,52,18,2,104,140,Clothing,Stole,COD,1
+B-25866,16-11-2018,Komal,Himachal Pradesh,Simla,51,14,2,102,130,Clothing,Stole,COD,1
+B-25607,06-04-2018,Sonakshi,Jammu and Kashmir,Kashmir,50,-15,4,200,140,Clothing,Leggings,COD,1
+B-25775,08-09-2018,Duhita,Haryana,Chandigarh,50,-17,2,100,66,Clothing,Stole,COD,1
+B-25998,04-02-2018,Anmol,Rajasthan,Udaipur,50,-28,5,250,110,Furniture,Furnishings,COD,1
+B-26062,15-03-2018,Tushina,Goa,Goa,44,-40,3,132,12,Clothing,Stole,COD,1
+B-26062,15-03-2018,Tushina,Goa,Goa,50,-17,2,100,66,Clothing,Stole,COD,1
+B-26062,15-03-2018,Tushina,Goa,Goa,13,-2,1,13,11,Clothing,Stole,COD,1
+B-25722,17-07-2018,Inderpreet,Himachal Pradesh,Simla,48,-8,8,384,320,Clothing,Stole,COD,1
+B-25776,09-09-2018,Mousam,Maharashtra,Mumbai,47,-20,2,94,54,Clothing,Kurti,Debit Card,1
+B-26032,22-02-2018,Monisha,Rajasthan,Jaipur,47,15,5,235,310,Clothing,Saree,Debit Card,1
+B-25705,30-06-2018,Shweta,Madhya Pradesh,Indore,46,0,2,92,92,Electronics,Electronic Games,COD,1
+B-25628,24-04-2018,Pooja,Bihar,Patna,35,-8,2,70,54,Furniture,Furnishings,Debit Card,1
+B-25628,24-04-2018,Pooja,Bihar,Patna,219,-9,4,876,840,Clothing,Saree,Credit Card,1
+B-25628,24-04-2018,Pooja,Bihar,Patna,45,13,4,180,232,Clothing,Skirt,COD,1
+B-25733,28-07-2018,Dhirajendu,Maharashtra,Mumbai,43,-43,7,301,0,Clothing,Stole,Debit Card,1
+B-25733,28-07-2018,Dhirajendu,Maharashtra,Mumbai,30,-10,2,60,40,Clothing,Stole,COD,1
+B-25733,28-07-2018,Dhirajendu,Maharashtra,Mumbai,23,-6,4,92,68,Clothing,Hankerchief,COD,1
+B-25647,03-05-2018,Sharda,Kerala ,Thiruvananthapuram,42,-6,4,168,144,Clothing,Saree,UPI,1
+B-25790,23-09-2018,Sajal,Bihar,Patna,42,-3,1,42,39,Electronics,Electronic Games,COD,1
+B-25709,01-07-2018,Aakanksha,Madhya Pradesh,Indore,33,-12,7,231,147,Clothing,Saree,UPI,1
+B-25709,01-07-2018,Aakanksha,Madhya Pradesh,Indore,41,-6,1,41,35,Furniture,Chairs,Credit Card,1
+B-25911,15-12-2018,Phalguni,Madhya Pradesh,Bhopal,40,15,1,40,55,Clothing,Kurti,COD,1
+B-25774,07-09-2018,Snehal,Punjab,Chandigarh,38,-6,2,76,64,Furniture,Furnishings,UPI,1
+B-26042,28-02-2018,Manish,Himachal Pradesh,Simla,36,15,3,108,153,Clothing,Stole,UPI,1
+B-25815,10-10-2018,Harsh,Nagaland,Kohima,35,14,2,70,98,Clothing,Stole,Credit Card,1
+B-25822,18-10-2018,Tejas,Karnataka,Bangalore,34,13,2,68,94,Clothing,Saree,COD,1
+B-26075,21-03-2018,Pearl,Maharashtra,Pune,34,12,2,68,92,Clothing,Stole,COD,1
+B-25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,33,-10,6,198,138,Clothing,Leggings,UPI,1
+B-25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,25,-11,1,25,14,Clothing,Stole,UPI,1
+B-25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,26,2,2,52,56,Clothing,Hankerchief,COD,1
+B-25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,30,-6,2,60,48,Clothing,Hankerchief,UPI,1
+B-25783,15-09-2018,Shivangi,Madhya Pradesh,Indore,21,-17,3,63,12,Clothing,Shirt,COD,1
+B-26046,04-03-2018,Nishi,Maharashtra,Mumbai,32,3,8,256,280,Clothing,Hankerchief,COD,1
+B-25690,15-06-2018,Gunjan,Madhya Pradesh,Indore,31,-10,3,93,63,Clothing,Skirt,COD,1
+B-25706,01-07-2018,Swetlana,Goa,Goa,31,-11,4,124,80,Clothing,Stole,COD,1
+B-25736,31-07-2018,Akshat,Maharashtra,Mumbai,31,-7,5,155,120,Clothing,Skirt,UPI,1
+B-25907,11-12-2018,Jaydeep,Madhya Pradesh,Bhopal,30,11,5,150,205,Clothing,Hankerchief,COD,1
+B-25719,12-07-2018,Rashmi,Madhya Pradesh,Indore,29,10,2,58,78,Clothing,Stole,COD,1
+B-26013,13-02-2018,Jahan,Madhya Pradesh,Bhopal,29,-10,3,87,57,Clothing,Skirt,COD,1
+B-26044,02-03-2018,Sanjay,Goa,Goa,28,-10,3,84,54,Clothing,Skirt,COD,1
+B-25649,05-05-2018,Rachna,Haryana,Chandigarh,27,-25,2,54,4,Clothing,Stole,COD,1
+B-25658,14-05-2018,Shefali,Rajasthan,Jaipur,27,9,2,54,72,Clothing,T-shirt,UPI,1
+B-25672,28-05-2018,Akanksha,Andhra Pradesh,Hyderabad,27,-15,1,27,12,Clothing,Stole,UPI,1
+B-25624,22-04-2018,Vini,Karnataka,Bangalore,26,12,3,78,114,Clothing,Hankerchief,COD,1
+B-25884,28-11-2018,Sumeet,Maharashtra,Mumbai,24,2,4,96,104,Clothing,Hankerchief,COD,1
+B-25641,27-04-2018,Parishi,West Bengal,Kolkata,22,-6,1,22,16,Furniture,Furnishings,COD,1
+B-25841,01-11-2018,Ashvini,Maharashtra,Mumbai,22,11,2,44,66,Clothing,Skirt,Credit Card,1
+B-25980,27-01-2018,Shweta,Rajasthan,Udaipur,22,11,3,66,99,Clothing,Kurti,COD,1
+B-26012,13-02-2018,Pearl,Maharashtra,Pune,199,8,2,398,414,Clothing,Saree,COD,1
+B-26029,20-02-2018,Ramesh,Gujarat,Ahmedabad,21,10,1,21,31,Clothing,T-shirt,Debit Card,1
+B-26071,19-03-2018,Subhashree,Jammu and Kashmir,Kashmir,21,4,3,63,75,Clothing,Hankerchief,Credit Card,1
+B-25646,01-05-2018,Sonal,Bihar,Patna,299,-8,2,598,582,Clothing,Saree,COD,1
+B-25677,02-06-2018,Ekta,West Bengal,Kolkata,20,-2,1,20,18,Electronics,Accessories,UPI,1
+B-25759,23-08-2018,Soumya,Sikkim,Gangtok,20,-9,6,120,66,Clothing,Hankerchief,Debit Card,1
+B-26059,12-03-2018,Rachna,Haryana,Chandigarh,20,6,1,20,26,Clothing,T-shirt,COD,1
+B-25632,25-04-2018,Manish,Himachal Pradesh,Simla,19,-2,2,38,34,Clothing,Leggings,Debit Card,1
+B-26079,22-03-2018,Hazel,Karnataka,Bangalore,18,3,2,36,42,Clothing,Hankerchief,Debit Card,1
+B-25674,28-05-2018,Mahima,Maharashtra,Pune,17,-12,5,85,25,Clothing,Skirt,Debit Card,1
+B-25965,21-01-2018,Saloni,West Bengal,Kolkata,17,7,3,51,72,Clothing,Hankerchief,Debit Card,1
+B-25732,27-07-2018,Anubhaw,Karnataka,Bangalore,16,-5,2,32,22,Clothing,Stole,UPI,1
+B-25834,29-10-2018,Ananya,Andhra Pradesh,Hyderabad,16,5,1,16,21,Clothing,Stole,UPI,1
+B-25784,15-09-2018,Rohit,Rajasthan,Jaipur,15,4,1,15,19,Clothing,Hankerchief,Debit Card,1
+B-25982,29-01-2018,Hemangi,Delhi,Delhi,13,3,1,13,16,Clothing,Leggings,COD,1
+B-25788,21-09-2018,Dinesh,Tamil Nadu,Chennai,12,3,1,12,15,Clothing,Stole,UPI,1
+B-25742,03-08-2018,Ashwin,Goa,Goa,11,-8,2,22,6,Clothing,Skirt,UPI,1
+B-26088,26-03-2018,Bhavna,Sikkim,Gangtok,11,5,2,22,32,Clothing,Hankerchief,UPI,1
+B-25707,01-07-2018,Shivani,Maharashtra,Mumbai,8,-6,1,8,2,Clothing,Stole,COD,1
+B-25758,22-08-2018,Shubham,Himachal Pradesh,Simla,8,-2,1,8,6,Clothing,Stole,COD,1
+B-26095,28-03-2018,Monisha,Rajasthan,Jaipur,6,1,1,6,7,Clothing,Kurti,UPI,1
